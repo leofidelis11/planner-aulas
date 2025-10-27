@@ -1,0 +1,1681 @@
+{
+    "bimestre": 4,
+    "ano": 2025,
+    "series": [
+        {
+            "serie": "2º ANO",
+            "disciplinas": [
+                {
+                    "disciplina": "ARTES",
+                    "conteudos": [
+                        {
+                            "tema": "DANÇA",
+                            "subtema": "Processos de criação",
+                            "descrição": "Elementos e dinâmicas da dança:Vivência e construção de frases gestuais considerando as diversas possibilidades temporais de movimento (lento, rápido, moderado, pausas); Exploração de diferentes dinâmicas e esforços;Integração/ Relacionamentos- improvisar por aproximação e contato.",
+                            "atividades": "(EF15AR11PE) Criar e improvisar movimentos dançados e construções coreográficas de modo individual, coletivo e colaborativo, considerando os aspectos estruturais, dinâmicos e expressivos dos elementos constitutivos do movimento com base nos códigos de dança e da sua diversidade estética, cultural e de gênero."
+                        },
+                        {
+                            "tema": "DANÇA",
+                            "subtema": "Processos de criação",
+                            "descrição": "Elementos e dinâmicas da dança:Vivência e construção de frases gestuais considerando as diversas possibilidades temporais de movimento (lento, rápido, moderado, pausas); Exploração de diferentes dinâmicas e esforços;Integração/ Relacionamentos- improvisar por aproximação e contato.",
+                            "atividades": "(EF15AR23PE) Reconhecer e experimentar, em projetos temáticos, as relações processuais e complementares entre diversas linguagens artísticas."
+                        },
+                        {
+                            "tema": "DANÇA",
+                            "subtema": "Patrimônio cultural",
+                            "descrição": "Elementos e dinâmicas da dança:Vivência e construção de frases gestuais considerando as diversas possibilidades temporais de movimento (lento, rápido, moderado, pausas); Exploração de diferentes dinâmicas e esforços;Integração/ Relacionamentos- improvisar por aproximação e contato.",
+                            "atividades": "(EF15AR25PE) Conhecer e valorizar o patrimônio cultural material e imaterial de diversas culturas, em especial a brasileira, incluindo-se suas matrizes indígenas, africanas e europeias de diferentes épocas para construir vocabulário e repertório diversificados relativos às diferentes linguagens artísticas."
+                        },
+                        {
+                            "tema": "DANÇA",
+                            "subtema": "Arte e tecnologia",
+                            "descrição": "Elementos e dinâmicas da dança:Vivência e construção de frases gestuais considerando as diversas possibilidades temporais de movimento (lento, rápido, moderado, pausas); Exploração de diferentes dinâmicas e esforços;Integração/ Relacionamentos- improvisar por aproximação e contato.",
+                            "atividades": "(EF15AR26PE) Explorar diferentes tecnologias e recursos digitais (multimeios, animações, jogos eletrônicos, gravações em áudio e vídeo, fotografia, softwares etc.) nos processos de criação nas diferentes linguagens artísticas."
+                        }
+                    ]
+                },
+                {
+                    "disciplina": "CIÊNCIAS",
+                    "conteudos": [
+                        {
+                            "tema": "Vida e Evolução",
+                            "subtema": "Seres vivos no ambiente Plantas.",
+                            "descrição": "As plantas e o meio ambiente.",
+                            "atividades": "(EF02CI06BPE) Analisar as relações entre as plantas, o ambiente e os demais seres vivos de forma crítica, significativa e ética."
+                        },
+                        {
+                            "tema": "Terra e Universo",
+                            "subtema": "Movimento aparente do Sol no céu.\nO Sol como fonte de luz e calor.",
+                            "descrição": "Exposição solar e seus efeitos.",
+                            "atividades": "(EF02CI08CPE) Identificar e experimentar hábitos de prevenção contra danos provocados pelo excesso de exposição ao Sol."
+                        },
+                        {
+                            "tema": "Matéria e Energia",
+                            "subtema": "Propriedades e usos dos materiais Prevenção de acidentes domésticos.",
+                            "descrição": "Prevenção de acidentes domésticos.",
+                            "atividades": "(EF02CI03BPE) Discutir os cuidados necessários à prevenção de acidentes domésticos (objetos cortantes e inflamáveis, eletricidade, produtos de limpeza, medicamentos, etc.) necessários à manutenção da integridade humana."
+                        },
+                        {
+                            "tema": "Matéria e Energia",
+                            "subtema": "Propriedades e usos dos materiais Prevenção de acidentes domésticos.",
+                            "descrição": "Noções de primeiros socorros em caso de acidentes domésticos.",
+                            "atividades": "(EF02CI03CPE) Identificar e listar situações de riscos presentes no cotidiano e descrever atitudes de prevenção e noções de primeiros socorros em caso de acidentes domésticos."
+                        }
+                    ]
+                },
+                {
+                    "disciplina": "GEOGRAFIA",
+                    "conteudos": [
+                        {
+                            "tema": "Formas de Representação e Pensamento espacial",
+                            "subtema": "Localização, orientação e representação espacial.",
+                            "descrição": "Referenciais espaciais de localização; Moradia e pontos de referência; Referenciais espaciais na localização de objetos e em trajetos; Referenciais espaciais de localização com projeção do esquema corporal; Referenciais espaciais durante atividade prática na sala de aula.",
+                            "atividades": "(EF02GE10PE) Aplicar princípios de localização e posição de objetos (referenciais espaciais e relações topológicas elementares, como frente e atrás, esquerda e direita, em cima e embaixo, dentro e fora) por meio de representações espaciais da sala de aula e da escola, compreendendo as relações espaciais de vizinhança, de separação/fronteira, de ordem, de\nenvolvimento e continuidade."
+                        },
+                        {
+                            "tema": "Natureza, Ambientes e Qualidade de vida",
+                            "subtema": "Os usos dos recursos naturais: solo e água no campo e na cidade.",
+                            "descrição": "Qualidade da água dos rios do lugar de vivência; A importância da preservação da\nágua; Uso racional da água; Principais impactos ambientais causados pelas atividades\nhumanas; Poluição das águas e destruição do solo.",
+                            "atividades": "(EF02GE11PE) Reconhecer a importância do solo e da água para a vida sustentável no processo interativo entre natureza e sociedade, identificando seus diferentes usos (plantação e extração de materiais, entre outras possibilidades) e os impactos desses usos no cotidiano da cidade e do campo."
+                        }
+                    ]
+                },
+                {
+                    "disciplina": "HISTÓRIA",
+                    "conteudos": [
+                        {
+                            "tema": "O trabalho e a sustentabilidade na comunidade",
+                            "subtema": "A sobrevivência e a relação com a natureza",
+                            "descrição": "Mostrar as diversas formas de trabalho tomando como exemplo a proﬁssão dos pais e dos próprios professores e familiares.",
+                            "atividades": "(EF02HI12PE) Perceber diferentes formas de trabalho existentes na comunidade em que vive, seus significados, suas especificidades e importância, compreendendo-os como produto de múltiplos sujeitos históricos e elemento primordial nas transformações históricas e sociais."
+                        },
+                        {
+                            "tema": "O trabalho e a sustentabilidade na comunidade",
+                            "subtema": "A sobrevivência e a relação com a natureza",
+                            "descrição": "Apresentar as ferramentas utilizadas nessas proﬁssões e como elas mudam com o tempo.",
+                            "atividades": "(EF02HI13PE) ) Identificar impactos no ambiente causados pelas diferentes formas de trabalho existentes na comunidade em que vive e como eles alteraram o espaço e o convívio humano ao longo do tempo."
+                        },
+                        {
+                            "tema": "O trabalho e a sustentabilidade na comunidade",
+                            "subtema": "A sobrevivência e a relação com a natureza",
+                            "descrição": "Mostrar como o trabalho humano alterou a paisagem da comunidade com a construção de casas, abertura de estradas, ruas, etc.",
+                            "atividades": "(EF02HI14PE) Discutir sobre a questão do trabalho infantil na localidade, no tempo presente e em outras épocas, observando permanências e mudanças, bem como os grupos e movimentos sociais que as desencadearam."
+                        }
+                    ]
+                },
+                {
+                    "disciplina": "PORTUGUÊS",
+                    "conteudos": [
+                        {
+                            "tema": "Leitura/escuta (compartilhada e autônoma): Todos os campos de atuação",
+                            "subtema": "Decodiﬁcação/\nCompreensão de leitura",
+                            "descrição": "Decodiﬁcação e leitura de palavras novas e\nconhecidas",
+                            "atividades": "(EF12LP01PE) Ler palavras novas em pequenos textos, com precisão na decodificação e compreensão, no caso de palavras de uso frequente, ler globalmente, por memorização em práticas de linguagem situadas (texto de tradição oral como cantigas regionais e nacionais, poemas, letras de músicas etc.) que proporcione a reflexão sobre o sistema de escrita."
+                        },
+                        {
+                            "tema": "Leitura/escuta (compartilhada e autônoma): Todos os campos de atuação",
+                            "subtema": "Formação de Leitor",
+                            "descrição": "Seleção/leitura de textos para necessidades e\ninteresses",
+                            "atividades": "(EF12LP02PE) Buscar, selecionar e ler, com a mediação do professor (leitura compartilhada), textos que circulam em meios impressos ou digitais, de acordo com as necessidades e interesses da comunidade local."
+                        },
+                        {
+                            "tema": "Leitura/escuta (compartilhada e autônoma): Todos os campos de atuação",
+                            "subtema": "Reconstrução das condições de produção e\nrecepção de textos",
+                            "descrição": "Função Social e Comunicativa dos textos",
+                            "atividades": "(EF15LP01PE) Identificar a função social de textos que circulam no cotidiano, nas mídias impressas, de massa e digital, reconhecendo para que foram produzidos, onde circulam, quem os produziu e a quem se destina e que os gêneros possuem funções sociais relacionadas aos campos de atuação aos quais circulam."
+                        },
+                        {
+                            "tema": "Leitura/escuta (compartilhada e autônoma): Todos os campos de atuação",
+                            "subtema": "Estratégia de leitura",
+                            "descrição": "Expectativas e pressuposições antecipadoras de sentido no texto",
+                            "atividades": "(EF15LP02PE) Estabelecer expectativas em relação à leitura que vai ler (pressuposições antecipadoras dos sentidos, da forma e da função social do texto), apoiando-se em seus conhecimentos prévios sobre as condições de produção e recepção desse texto, o gênero, o suporte e o universo temático, bem como aquilo que se destaca no texto, recursos gráficos, imagens, dados da própria obra (índice, prefácio etc.), confirmando antecipações e inferências realizadas antes e durante a leitura de textos, checando a adequação das hipóteses realizadas."
+                        },
+                        {
+                            "tema": "Leitura/escuta (compartilhada e autônoma): Todos os campos de atuação",
+                            "subtema": "Estratégia de leitura",
+                            "descrição": "Informações explícitas",
+                            "atividades": "(EF15LP03PE) Localizar informações explícitas em textos de diferentes gêneros lidos, ouvidos e/ou sinaliizados."
+                        },
+                        {
+                            "tema": "Leitura/escuta (compartilhada e autônoma): Todos os campos de atuação",
+                            "subtema": "Estratégia de leitura",
+                            "descrição": "Efeito de sentido de recurso expressivo e gráﬁco",
+                            "atividades": "(EF15LP04PE) Identificar o efeito de sentido produzido pelo uso de recursos expressivos e gráficos visuais (letra capitular, negrito, itálico, som em movimento, cores e imagens, etc.), em textos multissemióticos e multimodais."
+                        },
+                        {
+                            "tema": "Leitura/escuta (compartilhada e autônoma): Todos os campos de atuação",
+                            "subtema": "Estratégia de leitura",
+                            "descrição": "Realização de inferências",
+                            "atividades": "(EF12LPX01PE) Inferir informações em textos lidos e ouvidos e/ou sinalizados."
+                        },
+                        {
+                            "tema": "Leitura/escuta (compartilhada e autônoma): Todos os campos de atuação",
+                            "subtema": "Estratégia de leitura",
+                            "descrição": "Inferências de palavras em contextos",
+                            "atividades": "(EF12LPW02PE) Inferir o sentido de palavras de acordo com o contexto em textos lidos e/ou ouvidos."
+                        },
+                        {
+                            "tema": "Leitura/escuta (compartilhada e autônoma): Todos os campos de atuação",
+                            "subtema": "Estratégia de leitura",
+                            "descrição": "Ideia central",
+                            "atividades": "(EF12PY03PE) Identificar ideia central/intenção dos autores dos textos lidos e ouvidos."
+                        },
+                        {
+                            "tema": "Leitura/escuta (compartilhada e autônoma): Todos os campos de atuação",
+                            "subtema": "Estratégia de leitura",
+                            "descrição": "Relação título/ texto",
+                            "atividades": "(EF12LPZ04PE) Ler em colaboração com os colegas e com a ajuda do professor ou já com certa autonomia, listas, agendas, calendários, avisos, convites, receitas, instruções de montagem (digitais ou impressos), dentre outros gêneros do campo da vida cotidiana, considerando a situação comunicativa e o tema/assunto do texto, relacionando sua forma de organização à sua finalidade."
+                        },
+                        {
+                            "tema": "Leitura/Escuta (compartilhada e autônoma): Campo da vida cotidiana",
+                            "subtema": "Leitura de imagens em narrativas visuais",
+                            "descrição": "Leitura de textos instrucionais de acordo com as convenções",
+                            "atividades": "(EF15LP14PE) Construir o sentido de histórias em quadrinhos e tirinhas, relacionando imagens e palavras e interpretando recursos gráficos (tipos de balões, de letras, onomatopeias, expressões faciais, cores, proporção, profundidade, brilho, posição das personagens, dentre outros recursos) destacando semelhanças e diferenças entre os gêneros."
+                        },
+                        {
+                            "tema": "Leitura/escuta (compartilhada e autônoma): Campo das práticas de estudo e pesquisa",
+                            "subtema": "Compreensão em leitura",
+                            "descrição": "Leitura de textos do campo investigativo e suas\nfunções discursivas",
+                            "atividades": "(EF12LP17PE) Ler em colaboração com os colegas e com a ajuda do professor, enunciados de tarefas escolares, diagramas, curiosidades, pequenos relatos de experimentos, entrevistas, verbetes de enciclopédia infantil, entre outros gêneros do campo investigativo, considerando a situação comunicativa e o tema/assunto do texto e sua funcionalidade."
+                        },
+                        {
+                            "tema": "Leitura/escuta (compartilhada e autônoma): Campo das práticas de estudo e pesquisa",
+                            "subtema": "Imagens analíticas em textos",
+                            "descrição": "Funções sociodiscursivas de textos das práticas do estudo e pesquisa",
+                            "atividades": "(EF02LP20PE) Reconhecer, com a ajuda do professor, a função de textos utilizados para apresentar informações coletadas (gráficos, tabelas, planilhas), em atividades de pesquisa (enquetes, pequenas entrevistas, registros de experimentações)."
+                        },
+                        {
+                            "tema": "Leitura/escuta (compartilhada e autônoma): Campo das práticas de estudo e pesquisa",
+                            "subtema": "Pesquisa",
+                            "descrição": "Funções sociodiscursivas de textos das práticas do estudo e pesquisa de diferentes ambientes digitais",
+                            "atividades": "(EF02LP21PE) Explorar, com a mediação do professor, textos informativos de diferentes ambientes digitais de pesquisa, conhecendo suas possibilidades"
+                        },
+                        {
+                            "tema": "Leitura/escuta (compartilhada e autônoma): Campo artísticoliterário",
+                            "subtema": "Apreciação estética/estilo",
+                            "descrição": "Apreciação de recursos estilísticos em textos em verso",
+                            "atividades": "(EF12LP18PE) Apreciar e comentar poemas e outros textos versificados, observando rimas, jogos de palavras, recursos gráficos, sonoridade e aliterações, reconhecendo seu pertencimento ao mundo imaginário e sua dimensão de encantamento, jogo, fruição e seus efeitos de sentido."
+                        },
+                        {
+                            "tema": "Leitura/escuta (compartilhada e autônoma): Campo artísticoliterário",
+                            "subtema": "Leitura colaborativa e autônoma",
+                            "descrição": "Leitura de gêneros com estrutura narrativa",
+                            "atividades": "(EF15LP16PE) Ler, em colaboração com os colegas e com a ajuda do professor e, mais tarde, de maneira autônoma, textos narrativos de maior porte como contos (populares, de fadas, acumulativos, de assombração etc.) e crônicas, atentando para seus aspectos linguísticos e poéticos."
+                        },
+                        {
+                            "tema": "Leitura/escuta (compartilhada e autônoma): Campo artísticoliterário",
+                            "subtema": "Apreciação estética/estilo",
+                            "descrição": "Apreciação de poemas visuais e concretos",
+                            "atividades": "(EF15LP17PE) Apreciar e comentar poemas visuais e concretos, compreendendo os efeitos de sentido criados pelo formato do texto na página, distribuição e diagramação das letras, pelas ilustrações e por outros efeitos visuais."
+                        },
+                        {
+                            "tema": "Leitura/escuta (compartilhada e autônoma): Campo artísticoliterário",
+                            "subtema": "Formação do leitor literário/Leitura multissemiótica",
+                            "descrição": "Relação texto/ilustração recursos gráﬁcos",
+                            "atividades": "(EF15LP18PE) Relacionar texto com ilustrações e outros recursos gráficos visando à construção de sentidos."
+                        },
+                        {
+                            "tema": "Leitura/escuta (compartilhada e autônoma): Campo artísticoliterário",
+                            "subtema": "Contagem de histórias",
+                            "descrição": "Reconto de gêneros literários",
+                            "atividades": "(EF15LP19PE) Recontar oralmente, com e sem apoio de imagem, textos literários, nacionais e regionais (contos, cordéis, cantigas, parlendas) lidos ou sinalizados pelo professor ou pelo próprio estudante."
+                        },
+                        {
+                            "tema": "Produção de textos (escrita compartilhada e autônoma)/ Análise linguística/ semiótica (Alfabetização): Todos os campos de atuação",
+                            "subtema": "Planejamento de texto",
+                            "descrição": "Planejamento/produção/re- escrita textual/situação",
+                            "atividades": "(EF15LP05PE) Planejar, com a ajuda do professor, o texto que será produzido, considerando a situação comunicativa, os interlocutores (quem escreve/para quem escreve); a finalidade ou o propósito (escrever para quê); a circulação (onde o texto vai circular); o suporte (qual é o portador do texto); a linguagem, organização e forma do texto e seu tema, pesquisando em meios impressos ou digitais, sempre que for preciso, informações necessárias à produção do texto, organizando em tópicos os dados e as fontes pesquisadas."
+                        },
+                        {
+                            "tema": "Produção de textos (escrita compartilhada e autônoma)/ Análise linguística/ semiótica (Alfabetização): Todos os campos de atuação",
+                            "subtema": "Planejamento de texto",
+                            "descrição": "Planejamento/produção/re- escrita textual/situação discursiva",
+                            "atividades": "(EF15LP05PE) Planejar, com a ajuda do professor, o texto que será produzido, considerando a situação comunicativa, os interlocutores (quem escreve/para quem escreve); a finalidade ou o propósito (escrever para quê); a circulação (onde o texto vai circular); o suporte (qual é o portador do texto); a linguagem, organização e forma do texto e seu tema, pesquisando em meios impressos ou digitais, sempre que for preciso, informações necessárias à produção do texto, organizando em tópicos os dados e as fontes pesquisadas."
+                        },
+                        {
+                            "tema": "Produção de textos (escrita compartilhada e autônoma)/ Análise linguística/ semiótica (Alfabetização): Todos os campos de atuação",
+                            "subtema": "Revisão de textos",
+                            "descrição": "Releitura/revisão/reescrita textual",
+                            "atividades": "(EF15LP06PE) Reler e revisar o texto produzido, individualmente ou com a ajuda do professor e a colaboração dos colegas, para ajustá-lo e aprimorá-lo, fazendo cortes, acréscimos, reformulações, correções de ortografia e pontuação, visando aos efeitos de sentidos pretendidos."
+                        },
+                        {
+                            "tema": "Produção de textos (escrita compartilhada e autônoma)/ Análise linguística/ semiótica (Alfabetização): Todos os campos de atuação",
+                            "subtema": "Edição de texto",
+                            "descrição": "Edição ﬁnal de textos",
+                            "atividades": "(EF15LP07PE) Editar a versão final do texto, em colaboração com os colegas e com a ajuda do professor, ilustrando, quando for o caso, em suporte adequado, manual ou digital."
+                        },
+                        {
+                            "tema": "Produção de textos (escrita compartilhada e autônoma)/ Análise linguística/ semiótica (Alfabetização): Todos os campos de atuação",
+                            "subtema": "Utilização da tecnologia digital",
+                            "descrição": "Utiliação de tecnologia digital/exploração dos recursos multissemióticos",
+                            "atividades": "(EF15LP08PE) Utilizar software, inclusive programas de edição de texto, para editar e publicar os textos produzidos (folhetos com orientações sobre questões/problemas locais, guias, pesquisas sobre povos/grupos, entre outros próximos realidade/necessidade dos estudantes), explorando os recursos multissemióticos disponíveis, individualmente e/ou com colaboração de colegas e do professor."
+                        },
+                        {
+                            "tema": "Produção de textos (escrita compartilhada e autônoma)/ Análise linguística/ semiótica (Alfabetização): Todos os campos de atuação",
+                            "subtema": "Construção do sistema alfabético e da ortograﬁa",
+                            "descrição": "Composição e decomposição de palavras em gêneros trabalhados",
+                            "atividades": "(EF02LP02PE) Compor e decompor palavra em sílabas, remover e/ou substituir sílabas iniciais, mediais ou finais para criar novas palavras, a partir dos gêneros trabalhados."
+                        },
+                        {
+                            "tema": "Produção de textos (escrita compartilhada e autônoma)/ Análise linguística/ semiótica (Alfabetização): Todos os campos de atuação",
+                            "subtema": "Construção do sistema alfabético e da ortograﬁa",
+                            "descrição": "Correspondências regulares diretas entre letras e fonemas e correspondências regulares contextuais",
+                            "atividades": "(EF02LP03PE) Ler e escrever palavras com correspondências regulares diretas entre letras e fonemas (f, v, t, d, p, b) e correspondências regulares contextuais (c e q; e e o, em posição átona em final de palavra), a partir do trabalho com a leitura e a produção textual."
+                        },
+                        {
+                            "tema": "Produção de textos (escrita compartilhada e autônoma)/ Análise linguística/ semiótica (Alfabetização): Todos os campos de atuação",
+                            "subtema": "Construção do sistema alfabético e da ortograﬁa",
+                            "descrição": "Leitura e escrita de palavras com padrõessilábicos CV,V,CCV.",
+                            "atividades": "(EF02LP04PE) Ler e escrever corretamente palavras com sílabas CV,V, CVC, CCV, identificando que existem vogais em todas as sílabas, a partir do trabalho com a leitura e a produção textual."
+                        },
+                        {
+                            "tema": "Produção de textos (escrita compartilhada e autônoma)/ Análise linguística/ semiótica (Alfabetização): Todos os campos de atuação",
+                            "subtema": "Construção do sistema alfabético e da ortograﬁa",
+                            "descrição": "Ler e escrever palavras com marcas de nasalidade",
+                            "atividades": "(EF02LP05PE) Ler e escrever corretamente palavras com marcas de nasalidade (til, m, n), a partir do trabalho com a leitura e a produção textual."
+                        },
+                        {
+                            "tema": "Produção de textos (escrita compartilhada e autônoma)/ Análise linguística/ semiótica (Alfabetização): Todos os campos de atuação",
+                            "subtema": "Conhecimento do alfabeto do\nportuguês do Brasil",
+                            "descrição": "Princípio acrofônico empregado nas relações som-graﬁa.",
+                            "atividades": "(EF02LP06PE) Perceber o princípio acrofônico que opera nos nomes das letras do alfabeto, compreendendo e empregando as relações som- grafia, a partir do trabalho com a leitura e a produção textual."
+                        },
+                        {
+                            "tema": "Produção de textos (escrita compartilhada e autônoma)/ Análise linguística/ semiótica (Alfabetização): Todos os campos de atuação",
+                            "subtema": "Conhecimento das diversas graﬁas do alfabeto/\nAcentuação",
+                            "descrição": "Escrita com letras nas formas imprensa e cursiva",
+                            "atividades": "(EF02LP07PE) Escrever palavras, frases, em textos curtos nas formas imprensa e cursiva, dentro de um contexto de uso da língua."
+                        },
+                        {
+                            "tema": "Produção de textos (escrita compartilhada e autônoma)/ Análise linguística/ semiótica (Alfabetização): Todos os campos de atuação",
+                            "subtema": "Segmentação de palavras/ Classiﬁcação\nde palavras por número de sílabas",
+                            "descrição": "Segmentação de palavras em frases e textos",
+                            "atividades": "(EF02LP08PE) Segmentar corretamente as palavras ao escrever frases em textos, observando a segmentação das palavras a partir da fala."
+                        },
+                        {
+                            "tema": "Produção de textos (escrita compartilhada e autônoma)/ Análise linguística/ semiótica (Alfabetização): Todos os campos de atuação",
+                            "subtema": "Pontuação",
+                            "descrição": "Uso de pontuação e sua funcionalidade",
+                            "atividades": "(EF02LP09PE) Usar adequadamente ponto final, ponto de interrogação e ponto de exclamação e observar sua funcionalidade em textos."
+                        },
+                        {
+                            "tema": "Produção de textos (escrita compartilhada e autônoma)/ Análise linguística/ semiótica (Alfabetização): Todos os campos de atuação",
+                            "subtema": "Sinonímia e antonímia/ Morfologia",
+                            "descrição": "Sinônimos e antônimos com preﬁxos in/im e suas relações de sentido em contextos.",
+                            "atividades": "(EF02LP10PE) Identificar sinônimos de palavras de texto lido, determinando a diferença de sentido entre eles, e formar antônimos de palavras encontradas em texto lido pelo acréscimo do prefixo de negação in-/im-."
+                        },
+                        {
+                            "tema": "Produção de textos (escrita compartilhada e autônoma)/ Análise linguística/ semiótica (Alfabetização): Todos os campos de atuação",
+                            "subtema": "Morfologia",
+                            "descrição": "Formação de aumentativo e diminutivo com suﬁxos e suas relações de sentido",
+                            "atividades": "(EF02LP11PE) Formar o aumentativo e o diminutivo de palavras com os sufixos –ão/-arra/orra e -inho/-zinho/zito/eco/ebre/ito/eta , percebendo relações de sentido nos textos."
+                        },
+                        {
+                            "tema": "Produção de textos (escrita compartilhada e autônoma)/ Análise linguística/ semiótica (Alfabetização): Todos os campos de atuação",
+                            "subtema": "Formação do leitor literário",
+                            "descrição": "Desenvolvimento do gosto de leitura através de textos literários",
+                            "atividades": "(EF02LP26PE) Ler com certa autonomia, textos literários, de gêneros variados, desenvolvendo o gosto pela leitura."
+                        },
+                        {
+                            "tema": "Escrita (compartilhada e autônoma): Todos os campos de atuação",
+                            "subtema": "Construção do sistema alfabético/ Estabelecimento de relações anafóricas na referenciação e construção da coesão",
+                            "descrição": "Transcrição/observação da escrita de textos/trechos curtos",
+                            "atividades": "(EF12LP03PE) Transcrever textos breves ou trechos significativos de textos longos, mantendo suas características e voltando para o texto sempre que tiver dúvidas sobre sua distribuição gráfica, espaçamento entre as palavras, escrita das palavras e pontuação, acentuação, letra maiúscula, paragrafação e distribuição gráfica de suas partes, entre outros aspectos."
+                        },
+                        {
+                            "tema": "Escrita (compartilhada e autônoma): Campo da vida cotidiana",
+                            "subtema": "Escrita compartilhada",
+                            "descrição": "Planejamento e produção de gêneros do campo\nartístico",
+                            "atividades": "(EF12LP05PE) Planejar e produzir, em colaboração com os colegas e com a ajuda do professor, (re) contagens de histórias, poemas e outros textos versificados (letras de canção, quadrinhas, cordel), poemas visuais, tiras e histórias em quadrinhos, dentre outros gêneros do campo artístico, considerando a situação comunicativa, a finalidade do texto, bem como semelhanças e diferenças entre os gêneros."
+                        },
+                        {
+                            "tema": "Escrita (compartilhada e autônoma): Todos os campos de atuação",
+                            "subtema": "Construção do sistema\nalfabético/ Convenções\nda escrita",
+                            "descrição": "Graﬁa adequada de letras maiúsculas em vários contextos",
+                            "atividades": "(EF02LP01PE) Utilizar, ao produzir o texto, grafia correta de palavras, letras maiúsculas em início de frases e em substantivos próprios, segmentação entre as palavras, ponto final, ponto de interrogação e ponto de exclamação, observando seus usos na produção de sentidos."
+                        },
+                        {
+                            "tema": "Escrita (compartilhada e autônoma): Campo da vida cotidiana",
+                            "subtema": "Escrita autônoma e compartilhada",
+                            "descrição": "Planejamento e produção de relatos e suas funções sociodiscursivas",
+                            "atividades": "(EF02LP14PE) Planejar e produzir pequenos relatos de observação de processos, de fatos, de experiências pessoais, mantendo as características do gênero, considerando a situação comunicativa e o tema/assunto do texto."
+                        },
+                        {
+                            "tema": "Escrita (compartilhada e autônoma): Campo das práticas de estudo e pesquisa",
+                            "subtema": "Produção de textos",
+                            "descrição": "Planejamento e produção de gêneros do campo investigativo adequados às funções sociodiscursivas",
+                            "atividades": "(EF02LP22PE) Planejar e produzir, em colaboração com os colegas e com a ajuda do professor, pequenos relatos de experimentos, entrevistas, verbetes de enciclopédia infantil, dentre outros gêneros do campo investigativo, digitais ou impressos, considerando a situação comunicativa e o tema/assunto/finalidade do texto."
+                        },
+                        {
+                            "tema": "Escrita (compartilhada e autônoma): Campo das práticas de estudo e pesquisa",
+                            "subtema": "Escrita autônoma",
+                            "descrição": "Planejamento e produção de registros de pesquisas",
+                            "atividades": "(EF02LP23PE) Planejar e produzir, com certa autonomia, pequenos registros de observação de resultados de pesquisa, coerentes com um tema investigado."
+                        },
+                        {
+                            "tema": "Escrita (compartilhada e autônoma): Campo artísticoliterário",
+                            "subtema": "Escrita autônoma e compartilhada",
+                            "descrição": "Reescrita de narrativas literárias com elementos da narrativa",
+                            "atividades": "(EF02LP27PE) Reescrever de forma criativa, com a ajuda do professor textos narrativos literários lidos pelo professor, construindo adequadamente os elementos da narrativa (personagem, tipo de narrador, espaço, tempo, enredo) tanto nos textos em prosa quanto em verso, atentando para os princípios da textualidade."
+                        },
+                        {
+                            "tema": "Oralidade: Todos os campos de atuação",
+                            "subtema": "Oralidade pública/Intercâmbio\nconversacional em sala de aula",
+                            "descrição": "Intercâmbio oral",
+                            "atividades": "(EF15LP09PE) Expressar-se em situações de intercâmbio oral (exposição de resultados de pesquisas, participação em debates, apresentação de livros lidos, apresentar poemas em saraus, oralização de textos produzidos para programa de rádio, de textos regionais dentre outros), com clareza, preocupando-se em ser compreendido pelo interlocutor e usando a palavra com tom de voz audível, boa articulação e ritmo adequado."
+                        },
+                        {
+                            "tema": "Oralidade: Todos os campos de atuação",
+                            "subtema": "Escuta atenta",
+                            "descrição": "Escuta/interação atenta",
+                            "atividades": "(EF15LP10PE) Escutar/visualizar, com atenção, falas de professores e colegas, formulando perguntas pertinentes ao tema e solicitando esclarecimentos sempre que necessário."
+                        },
+                        {
+                            "tema": "Oralidade: Todos os campos de atuação",
+                            "subtema": "Características da conversação espontânea",
+                            "descrição": "Conversação espontânea",
+                            "atividades": "(EF15LP11PE) Reconhecer características da conversação espontânea presencial, respeitando os turnos de fala, selecionando e utilizando, durante a conversação, formas adequadas de tratamento, de acordo com a situação e a posição do interlocutor."
+                        },
+                        {
+                            "tema": "Oralidade: Todos os campos de atuação",
+                            "subtema": "Aspectos não linguísticos (paralinguísticos)\nno ato da fala",
+                            "descrição": "Atribuição de signiﬁcados de aspectos não\nlinguísticos",
+                            "atividades": "(EF15LP12PE) Atribuir significado a aspectos não linguísticos (paralinguísticos) observados na fala, como direção do olhar, riso, gestos, movimentos da cabeça (de concordância ou discordância), expressão corporal, tom de voz, dentre outros."
+                        },
+                        {
+                            "tema": "Oralidade: Todos os campos de atuação",
+                            "subtema": "Relato oral/Registro\nformal e informal",
+                            "descrição": "Finalidade da interação oral",
+                            "atividades": "(EF15LP13PE) Identificar finalidades da interação oral em diferentes contextos comunicativos (solicitar informações, apresentar opiniões, informar, relatar experiências etc.)."
+                        },
+                        {
+                            "tema": "Oralidade: Campo da vida cotidiana",
+                            "subtema": "Produção de texto oral",
+                            "descrição": "Canto /interação com ritmo, tempo e melodia",
+                            "atividades": "(EF02LP15PE) Cantar e interagir com cantigas e canções do seu contexto cultural, obedecendo ao ritmo, tempo e à melodia."
+                        },
+                        {
+                            "tema": "Oralidade: Campo da vida pública",
+                            "subtema": "Produção de texto oral",
+                            "descrição": "Planejamento e produção de gêneros campo\njornalísticos orais",
+                            "atividades": "(EF02LP19PE) Planejar e produzir, em colaboração com os colegas e com a ajuda do professor, notícias curtas para público infantil, para compor jornal falado que possa ser repassado oralmente ou em meio digital, em áudio ou vídeo, dentre outros gêneros do campo jornalístico, considerando a situação comunicativa e o tema/assunto do texto."
+                        },
+                        {
+                            "tema": "Oralidade: Campo das práticas de estudo e\npesquisa",
+                            "subtema": "Planejamento de texto oral/ Exposição oral",
+                            "descrição": "Planejamento e produção de gêneros orais do campo investigativo veiculados por\nferramentas digitais",
+                            "atividades": "(EF02LP24PE) Planejar e produzir, em colaboração com os colegas e com a ajuda do professor, relatos de experimentos, registros de observação, entrevistas na comunidade local, dentre outros gêneros do campo investigativo, que possam ser repassados oralmente por meio de ferramentas digitais, em áudio ou vídeo, considerando as características dos gêneros, a situação comunicativa e o tema/assunto/ finalidade do texto."
+                        },
+                        {
+                            "tema": "Oralidade: Campo da vida pública",
+                            "subtema": "Forma de composição do\ntexto",
+                            "descrição": "Identiﬁcação e reprodução de gêneros digitais e impressos do meio jornalístico com formatação ediagramação especíﬁcas.",
+                            "atividades": "(EF12LP14PE) Identificar e reproduzir, em fotolegendas de notícias, álbum de fotos digital noticioso, cartas de leitor (revista infantil), digitais ou impressos, a formatação e diagramação específica de cada um desses gêneros, inclusive em suas versões orais, atentando para afuncionalidade dos gêneros, em atividades de leitura e produção textual."
+                        },
+                        {
+                            "tema": "Oralidade: Campo da vida pública",
+                            "subtema": "Forma de composição do\ntexto",
+                            "descrição": "Identiﬁcação de formas de composição de textos publicitários",
+                            "atividades": "(EF12LP15PE) Identificar e reproduzir, em fotolegendas de notícias, álbum de fotos digital noticioso, cartas de leitor (revista infantil), digitais ou impressos, a formatação e diagramação específica de cada um desses gêneros, inclusive em suas versões orais, atentando para a funcionalidade dos gêneros, em atividades de leitura e produção textual."
+                        },
+                        {
+                            "tema": "Oralidade: Campo da vida cotidiana",
+                            "subtema": "Forma de composição dos textos/ Adequação do texto às normas de\nescrita",
+                            "descrição": "Identiﬁcação e reprodução da formatação e diagramação de textos publicitários (orais e escritos) para a formação cidadã",
+                            "atividades": "(EF12LP16PE) Identificar e reproduzir, em anúncios publicitários e textos de campanhas de conscientização destinados ao público infantil (orais e escritos, digitais ou impressos), a formatação e diagramação específica de cada um desses gêneros, inclusive o uso de imagens."
+                        },
+                        {
+                            "tema": "Oralidade: Campo da vida cotidiana",
+                            "subtema": "Forma de composição dos textos/ Adequação do texto às normas de\nescrita",
+                            "descrição": "Identiﬁcação e reprodução de expressões para\npassagem de tempo",
+                            "atividades": "(EF02LP17PE) Identificar e reproduzir, em relatos de experiências pessoais, a sequência dos fatos, utilizando expressões que marquem a passagem do tempo (“antes”, “depois”, “ontem”, “hoje”, “amanhã”, “outro dia”, “antigamente”, “há muito tempo” etc.), e o nível de informatividade necessário, em atividade de leitura e produção textual."
+                        },
+                        {
+                            "tema": "Oralidade: Campo das práticas de estudo e pesquisa",
+                            "subtema": "Forma de composição dos textos/ Adequação do texto às normas de\nescrita",
+                            "descrição": "Formatação e diagramação de gêneros impressos ou digitais do campo das práticas de estudo e pesquisa.",
+                            "atividades": "(EF02LP25PE) Identificar e reproduzir com ajuda do professor, em relatos de experimentos, entrevistas verbetes de enciclopédia infantil, digitais ou impressos, a formatação e diagramação específica de cada um desses gêneros, inclusive em suas versões orais."
+                        }
+                    ]
+                },
+                {
+                    "disciplina": "MATEMÁTICA",
+                    "conteudos": [
+                        {
+                            "tema": "Números",
+                            "subtema": "Problemas envolvendo signiﬁcados de dobro, metade, triplo e terça parte.",
+                            "descrição": "Resolução e elaboração de problemas envolvendo dobro, metade, triplo e terça parte de um número; Resolução de problemas em linguagem verbal, envolvendo a ideia de repartir uma coleção em partes iguais; Determinação da quantidade de vezes uma quantidade cabe em outra; Dobro como duas vezes uma quantidade e triplo como três vezes uma quantidade; Conceito de metade como resultado da divisão em duas partes iguais;",
+                            "atividades": "(EF02MA08PE) Resolver e elaborar problemas envolvendo dobro,\nmetade, triplo e terça parte, com o suporte de imagens ou material manipulável, utilizando estratégias pessoais."
+                        },
+                        {
+                            "tema": "Números",
+                            "subtema": "Problemas envolvendo signiﬁcados de dobro, metade, triplo e terça parte.",
+                            "descrição": "Resolução e elaboração de problemas envolvendo dobro, metade, triplo e terça parte de um número; Resolução de problemas em linguagem verbal, envolvendo a ideia de repartir uma coleção em partes iguais; Determinação da quantidade de vezes uma quantidade cabe em outra; Dobro como duas vezes uma quantidade e triplo como três vezes uma quantidade; Conceito de metade como resultado da divisão em duas partes iguais;",
+                            "atividades": "(EF02MAXPE) Resolver problemas em linguagem verbal, envolvendo\nas ideias de repartir uma coleção em partes iguais e de determinar quantas vezes uma quantidade cabe em outra."
+                        },
+                        {
+                            "tema": "Álgebra",
+                            "subtema": "Identiﬁcação de regularidade de sequências e determinação de elementos ausentes na sequência.",
+                            "descrição": "Conceito de terça parte como resultado da divisão em três partes iguais; Identiﬁcação e descrição de regularidades e de elementos ausentes em sequências numéricas e ﬁgurais; Investigação e determinação de elementos ausentes em uma sequência recursiva.",
+                            "atividades": "(EF02MA11PE) Descrever os elementos ausentes em sequências repetitivas e em sequências recursivas de números naturais, objetos ou figuras."
+                        },
+                        {
+                            "tema": "Geometria",
+                            "subtema": "Figuras geométricas planas (círculo, quadrado, retângulo e triângulo): reconhecimento e características.",
+                            "descrição": "Relação entre ﬁguras geométricas planas e não planas; Reconhecimento, comparação e nomeação de ﬁguras planas (círculo, quadrado, retângulo e triângulo), por meio de suas características comuns.",
+                            "atividades": "(EF02MA15PE) Reconhecer, comparar e nomear figuras planas (círculo, quadrado, retângulo e triângulo) por meio de características comuns em desenhos apresentados em diferentes disposições ou em sólidos geométricos, utilizando materiais manipuláveis e/ou recursos digitais."
+                        },
+                        {
+                            "tema": "Probabilidade e Estatística",
+                            "subtema": "Coleta, classiﬁcação e representação de dados em tabelas simples e de dupla entrada e em gráﬁcos de colunas.",
+                            "descrição": "Realização de pesquisa em universo de até 30 elementos com até três variáveis categóricas; Coleta, organização e representação dos dados de uma pesquisa em listas, tabelas e gráﬁcos de colunas simples.",
+                            "atividades": "(EF02MA23PE) Realizar pesquisa em universo de até 30 elementos, escolhendo até três variáveis categóricas de seu interesse, organizando os dados coletados em listas, tabelas e gráficos de colunas simples."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serie": "4º ANO",
+            "disciplinas": [
+                {
+                    "disciplina": "ARTES",
+                    "conteudos": [
+                        {
+                            "tema": "TEATRO",
+                            "subtema": "Processos de criação",
+                            "descrição": "Os Jogos Teatrais: Vivência das possibilidades dramáticas pela construção da personagem, da ação, da cena, do espaço cênico e do espaço dramático.Os Signos Teatrais:Organização dialógica do vestuário,maquiagem,objetos de cena, espaço, cenário, iluminação, sons, ruídos, música, texto e adereços como componentes estruturadores da cena.",
+                            "atividades": "(EF15AR21PE) Vivenciar jogos dramáticos e teatrais, exercitando a imitação e o faz de conta, ressignificando objetos e fatos e compondo acontecimentos cênicos por meio de músicas, imagens, textos ou outros pontos de partida de forma intencional e reflexiva."
+                        },
+                        {
+                            "tema": "TEATRO",
+                            "subtema": "Processos de criação",
+                            "descrição": "Os Jogos Teatrais: Vivência das possibilidades dramáticas pela construção da personagem, da ação, da cena, do espaço cênico e do espaço dramático.Os Signos Teatrais:Organização dialógica do vestuário,maquiagem,objetos de cena, espaço, cenário, iluminação, sons, ruídos, música, texto e adereços como componentes estruturadores da cena.",
+                            "atividades": "(EF15AR22PE) Experimentar possibilidades criativas de movimento corporal, expressão facial, gestual e uso de voz na criação de um ou mais personagens para o fazer teatral, refletindo e discutindo sobre estereótipos."
+                        },
+                        {
+                            "tema": "TEATRO",
+                            "subtema": "Processos de criação",
+                            "descrição": "Os Jogos Teatrais: Vivência das possibilidades dramáticas pela construção da personagem, da ação, da cena, do espaço cênico e do espaço dramático.Os Signos Teatrais:Organização dialógica do vestuário,maquiagem,objetos de cena, espaço, cenário, iluminação, sons, ruídos, música, texto e adereços como componentes estruturadores da cena.",
+                            "atividades": "(EF15AR23PE) Reconhecer e experimentar, em projetos\ntemáticos, as relações processuais e complementares entre diversas linguagens artísticas."
+                        },
+                        {
+                            "tema": "TEATRO",
+                            "subtema": "Patrimônio cultural",
+                            "descrição": "Os Jogos Teatrais: Vivência das possibilidades dramáticas pela construção da personagem, da ação, da cena, do espaço cênico e do espaço dramático.Os Signos Teatrais:Organização dialógica do vestuário,maquiagem,objetos de cena, espaço, cenário, iluminação, sons, ruídos, música, texto e adereços como componentes estruturadores da cena.",
+                            "atividades": "(EF15AR25PE) Conhecer e valorizar o patrimônio cultural material e imaterial de culturas diversas, em especial a brasileira, incluindo-se suas matrizes indígenas, africanas e europeias de diferentes épocas para construir vocabulário e repertório diversificados relativos às diferentes linguagens artísticas."
+                        },
+                        {
+                            "tema": "TEATRO",
+                            "subtema": "Arte e tecnologia",
+                            "descrição": "Os Jogos Teatrais: Vivência das possibilidades dramáticas pela construção da personagem, da ação, da cena, do espaço cênico e do espaço dramático.Os Signos Teatrais:Organização dialógica do vestuário,maquiagem,objetos de cena, espaço, cenário, iluminação, sons, ruídos, música, texto e adereços como componentes estruturadores da cena.",
+                            "atividades": "(EF15AR26PE) Explorar diferentes tecnologias e recursos digitais (multimeios, animações, jogos eletrônicos, gravações em áudio e vídeo, fotografia, softwares etc.) nos processos de criação de diferentes linguagens artísticas."
+                        }
+                    ]
+                },
+                {
+                    "disciplina": "CIÊNCIAS",
+                    "conteudos": [
+                        {
+                            "tema": "Vida e Evolução",
+                            "subtema": "Cadeias alimentares simples Microrganismos.",
+                            "descrição": "Estrutura celular dos vírus, bactérias, fungos e protozoários; Prevenção de doenças; Decomposição de matéria orgânica.",
+                            "atividades": "(EF04CI08APE) Conhecer a estrutura organizacional dos seres vivos (células, tecidos, órgãos, sistemas, organismos) unicelulares e pluricelulares."
+                        },
+                        {
+                            "tema": "Vida e Evolução",
+                            "subtema": "Cadeias alimentares simples Microrganismos.",
+                            "descrição": "Estrutura celular dos vírus, bactérias, fungos e protozoários; Prevenção de doenças; Decomposição de matéria orgânica.",
+                            "atividades": "(EF04CI08BPE) Conhecer a estrutura organizacional dos vírus, bactérias, fungos e protozoários."
+                        },
+                        {
+                            "tema": "Vida e Evolução",
+                            "subtema": "Cadeias alimentares simples Microrganismos.",
+                            "descrição": "Estrutura celular dos vírus, bactérias, fungos e protozoários; Prevenção de doenças; Decomposição de matéria orgânica.",
+                            "atividades": "(EF04CI08CPE) Identificar e propor, a partir do conhecimento das formas de transmissão de alguns microrganismos (vírus, bactérias, fungos e protozoários), atitudes e medidas adequadas para prevenção de doenças a eles associadas."
+                        },
+                        {
+                            "tema": "Terra e Universo",
+                            "subtema": "Pontos cardeais Calendários, fenômenos cíclicos e cultura.",
+                            "descrição": "Movimentos dos astros e os eventos na natureza",
+                            "atividades": "(EF04CI11BPE) Relacionar os conhecimentos sobre os movimentos cíclicos da Lua e da Terra a eventos da natureza (movimentos das marés, por exemplo)."
+                        },
+                        {
+                            "tema": "Matéria e Energia",
+                            "subtema": "Misturas, Transformações reversíveis e não reversíveis.",
+                            "descrição": "Transformações reversíveis e não reversíveis da matéria",
+                            "atividades": "(EF04CI03BPE) Compreender e demonstrar que as mudanças causadas por aquecimento ou resfriamento são reversíveis (como as mudanças de estado físico da água) e outras não (como o cozimento do ovo, a queima do papel etc.)."
+                        }
+                    ]
+                },
+                {
+                    "disciplina": "GEOGRAFIA",
+                    "conteudos": [
+                        {
+                            "tema": "Mundo do Trabalho",
+                            "subtema": "Trabalho no campo e na cidade",
+                            "descrição": "Atividades típicas da zona rural e da zona urbana. Gráﬁco mostrando a distribuição de trabalhadores nas atividades da zona rural e da zona urbana. Elementos da natureza que interferem no trabalho na zona rural. Diferenças entre as atividades de trabalho na zona rural e na zona urbana.",
+                            "atividades": "(EF04GE07PE) Identificar e comparar as características e o desenvolvimento do trabalho no campo e na cidade, contemplando especificidades de trabalho nas suas diversas formas."
+                        },
+                        {
+                            "tema": "Formas de representação e pensamento espacial",
+                            "subtema": "Produção, circulação e consumo.",
+                            "descrição": "Correlação entre um produto e sua matéria-prima principal. Modos de produção Modo artesanal e o modo industrial de produção. Transformação do trigo em outros produtos.",
+                            "atividades": "(EF04GE08PE) Descrever e discutir o processo de produção (transformação de matérias-primas), circulação e consumo de diferentes produtos, considerando fluxos econômicos, de produção, de informações, de ideias e pessoas em diferentes escalas de análise."
+                        },
+                        {
+                            "tema": "Formas de representação e pensamento espacial",
+                            "subtema": "Sistema de orientação.",
+                            "descrição": "Rosa dos ventos para localização de elementos. Direções cardeais nos arredores da escola. Rosa dos ventos para indicar a direção de alguns municípios do estado de Pernambuco a partir do município de Recife.",
+                            "atividades": "(EF04GE09PE) Utilizar as direções cardeais, fazendo uso de instrumentos tais como bússolas, mapas e outros na localização de componentes físicos e humanos nas paisagens rurais e urbanas, com a finalidade de o estudante perceber o lugar que ele ocupa no espaço e sua posição em relação ao espaço local e regional."
+                        }
+                    ]
+                },
+                {
+                    "disciplina": "HISTÓRIA",
+                    "conteudos": [
+                        {
+                            "tema": "As questões históricas relativas às migrações",
+                            "subtema": "Os processos migratórios do ﬁnal do século XIX e início do século XX no Brasil.\nAs dinâmicas internas de migração no Brasil a partir dos anos 1960",
+                            "descrição": "Mostrar como as populações se deslocam de um lugar para o outro, a trabalho, por pressões naturais, por questões políticas.",
+                            "atividades": "(EF04HI14PE) Identificar deslocamentos populacionais no Estado, no passado e no presente, as migrações regionais e nacionais e compreender as razões dos movimentos para outras regiões do país ou para o exterior e dessas regiões para Pernambuco."
+                        },
+                        {
+                            "tema": "As questões históricas relativas às migrações",
+                            "subtema": "Os processos migratórios do ﬁnal do século XIX e início do século XX no Brasil.\nAs dinâmicas internas de migração no Brasil a partir dos anos 1960",
+                            "descrição": "Identiﬁcar os movimentos migratórios no município (de trabalhadores, de turistas, etc.) e relacioná-los com outros movimentos ocorridos na região ou no estado.",
+                            "atividades": "(EF04HI15PE) Analisar a chegada e as formas de dominação dos portugueses e os confrontos com as populações indígenas, que habitavam o território que hoje pertence ao Estado de Pernambuco, bem como suas formas de resistência e os efeitos para as populações indígenas."
+                        },
+                        {
+                            "tema": "As questões históricas relativas às migrações",
+                            "subtema": "Os processos migratórios do ﬁnal do século XIX e início do século XX no Brasil.\nAs dinâmicas internas de migração no Brasil a partir dos anos 1960",
+                            "descrição": "Identiﬁcar a presença de indígenas e negros na formação das comunidades, do município, do Estado e do país.",
+                            "atividades": "(EF04HI16PE) Identificar a presença de comunidades indígenas em Pernambuco, nas suas diversas microrregiões, e compreender os conflitos existentes na atualidade no estado e no Brasil."
+                        },
+                        {
+                            "tema": "As questões históricas relativas às migrações",
+                            "subtema": "Os processos migratórios do ﬁnal do século XIX e início do século XX no Brasil.\nAs dinâmicas internas de migração no Brasil a partir dos anos 1960",
+                            "descrição": "Apresentar e reconhecer os impactos da migração forçada de africanos para a comunidade, o município, o Estado, a região e o país.",
+                            "atividades": "(EF04HI17PE) Reconhecer as formas de deslocamento de populações africanas para a colônia portuguesa na América, as origens dos povos africanos e seu modo de vida, as condições de vida e trabalho dos africanos escravizados e contextualizar a formação de quilombos e outras formas de resistência à escravidão, notadamente no Estado de Pernambuco."
+                        },
+                        {
+                            "tema": "As questões históricas relativas às migrações",
+                            "subtema": "Os processos migratórios do ﬁnal do século XIX e início do século XX no Brasil.\nAs dinâmicas internas de migração no Brasil a partir dos anos 1960",
+                            "descrição": "Apresentar outros modos de deslocamento populacional de diversos grupos migrantes (asiáticos, europeus, africanos, etc.).",
+                            "atividades": "(EF04HI18PE) Contextualizar e analisar os deslocamentos de outros grupos de imigrantes (europeus, asiáticos e outros, nos séculos XIX, XX e XXI), seu modo de vida, sua cultura e sua inserção nas atividades econômicas, observando seus impactos em uma dada sociedade."
+                        }
+                    ]
+                },
+                {
+                    "disciplina": "HISTÓRIA LOCAL",
+                    "conteudos": [
+                        {
+                            "tema": "Cultura Local e Cidadania",
+                            "subtema": "Crenças Religiosas",
+                            "descrição": "Catolicismo",
+                            "atividades": "Destacar as crenças religiosas existente na cidade;"
+                        },
+                        {
+                            "tema": "Cultura Local e Cidadania",
+                            "subtema": "Crenças Religiosas",
+                            "descrição": "Catolicismo",
+                            "atividades": "Utilizar as diversas fontes historicas da comunidsade em que está inserida, respeitando as especificidades redligiosa;"
+                        },
+                        {
+                            "tema": "Cultura Local e Cidadania",
+                            "subtema": "Crenças Religiosas",
+                            "descrição": "Evangélico",
+                            "atividades": "Destacar as crenças religiosas existente na cidade;"
+                        },
+                        {
+                            "tema": "Cultura Local e Cidadania",
+                            "subtema": "Crenças Religiosas",
+                            "descrição": "Evangélico",
+                            "atividades": "Utilizar as diversas fontes historicas da comunidsade em que está inserida, respeitando as especificidades redligiosa"
+                        },
+                        {
+                            "tema": "Cultura Local e Cidadania",
+                            "subtema": "Cultura Local",
+                            "descrição": "Festividade",
+                            "atividades": "Perceber as tradições do local ou comunidade de residência"
+                        },
+                        {
+                            "tema": "Cultura Local e Cidadania",
+                            "subtema": "Cultura Local",
+                            "descrição": "Arte",
+                            "atividades": "Compreender as festividades como espaço de lazer e a importância destes no convívio social"
+                        },
+                        {
+                            "tema": "Cultura Local e Cidadania",
+                            "subtema": "Cidadania",
+                            "descrição": "Eleição",
+                            "atividades": "Vivenciar as possibilidades dramátics pela construção dos personagens, da ação em cena e do espaço cênico;"
+                        },
+                        {
+                            "tema": "Cultura Local e Cidadania",
+                            "subtema": "Cidadania",
+                            "descrição": "Direitos e deveres",
+                            "atividades": "Refeltir sobre a construção e a implementação de políticas relacionadas a direitos e deveres do cidadão;"
+                        }
+                    ]
+                },
+                {
+                    "disciplina": "PORTUGUÊS",
+                    "conteudos": [
+                        {
+                            "tema": "Leitura/escuta\n(compartilhada e autônoma): Todos os campos de atuação",
+                            "subtema": "Reconstrução das condições de produção e recepção de textos",
+                            "descrição": "Função Social e Comunicativa dos textos",
+                            "atividades": "(EF15LP01PE) Identificar a função social de textos que circulam no cotidiano, nas mídias impressa, de massa e digital, reconhecendo para que foram produzidos, onde circulam, quem os produziu e a quem se destinam e que os gêneros possuem funções sociais relacionadas aos campos de atuação nos quais circulam."
+                        },
+                        {
+                            "tema": "Leitura/escuta\n(compartilhada e autônoma): Todos os campos de atuação",
+                            "subtema": "Estratégia de leitura",
+                            "descrição": "Expectativas e pressuposições antecipadoras de sentido no texto",
+                            "atividades": "(EF15LP02PE) Estabelecer expectativas em relação ao texto que vai ler (pressuposições antecipadoras dos sentidos, da forma e da função social do texto), apoiando-se em seus conhecimentos prévios sobre as condições de produção e recepção desse texto, o gênero, o suporte e o universo temático, bem como sobre saliências textuais, recursos gráficos, imagens, dados da própria obra (índice, prefácio etc.), confirmando antecipações e inferências realizadas antes e durante a leitura de textos, checando a adequação das hipóteses realizadas"
+                        },
+                        {
+                            "tema": "Leitura/escuta\n(compartilhada e autônoma): Todos os campos de atuação",
+                            "subtema": "Estratégia de leitura",
+                            "descrição": "Informações explícitas",
+                            "atividades": "(EF15LP03PE) Localizar informações explícitas em diferentes gêneros lidos, ouvidos e/ou sinalizados."
+                        },
+                        {
+                            "tema": "Leitura/escuta\n(compartilhada e autônoma): Todos os campos de atuação",
+                            "subtema": "Estratégia de leitura",
+                            "descrição": "Efeito de sentido de recursos expressivos e gráficos",
+                            "atividades": "(EF15LP04PE) Identificar o efeito de sentido produzido pelo uso de recursos expressivos e gráficos visuais (letra capitular, negrito, itálico, som em movimento, cores e imagens etc.) em textos multissemióticos e multimodais."
+                        },
+                        {
+                            "tema": "Leitura/escuta\n(compartilhada e autônoma): Todos os campos de atuação",
+                            "subtema": "Decodiﬁcação/ compreensão de\nleitura",
+                            "descrição": "Leitura silenciosa/em voz alta",
+                            "atividades": "(EF35LP01PE) Ler, silenciosamente e, em seguida, em voz alta, com autonomia, e compreensão, textos com nível de textualidade adequado."
+                        },
+                        {
+                            "tema": "Leitura/escuta\n(compartilhada e autônoma): Todos os campos de atuação",
+                            "subtema": "Formação do leitor",
+                            "descrição": "Leitura individual/justiﬁcativa e opinião após leitura",
+                            "atividades": "(EF35LP02PE) Selecionar livros da biblioteca e/ou do cantinho de leitura da sala de aula e/ou disponíveis em meios digitais para leitura individual, justificando a escolha e compartilhando com os colegas sua opinião, após a leitura."
+                        },
+                        {
+                            "tema": "Leitura/escuta\n(compartilhada e autônoma): Todos os campos de atuação",
+                            "subtema": "Compreensão",
+                            "descrição": "Ideia central do texto",
+                            "atividades": "(EF35LP03PE) Identificar a ideia central do texto, demonstrando compreensão global, em textos lidos ouvidos e/ou sinalizados."
+                        },
+                        {
+                            "tema": "Leitura/escuta\n(compartilhada e autônoma): Todos os campos de atuação",
+                            "subtema": "Estratégia de leitura",
+                            "descrição": "Informações implícitas",
+                            "atividades": "(EF35LP04PE) Inferir informações implícitas em textos lidos, ouvidos e/ou sinalizados."
+                        },
+                        {
+                            "tema": "Leitura/escuta\n(compartilhada e autônoma): Todos os campos de atuação",
+                            "subtema": "Estratégia de leitura",
+                            "descrição": "Inferência",
+                            "atividades": "(EF35LP05PE) Inferir o sentido de palavras ou expressões em textos, com base no contexto de uso."
+                        },
+                        {
+                            "tema": "Leitura/escuta\n(compartilhada e autônoma): Todos os campos de atuação",
+                            "subtema": "Estratégia de leitura",
+                            "descrição": "Substituição lexical/pronominal na construção de sentido do texto",
+                            "atividades": "(EF35LP06PE) Recuperar relações entre partes de um texto, identificando substituições lexicais (de substantivos por sinônimos) ou pronominais (uso de pronomes anafóricos – pessoais, possessivos, demonstrativos), que contribuem para a continuidade e construção de sentidos do texto."
+                        },
+                        {
+                            "tema": "Leitura/Escuta (compartilhada e autônoma): Campo da vida cotidiana",
+                            "subtema": "Compreensão em leitura",
+                            "descrição": "Compreensão em leitura",
+                            "atividades": "(EF04LP09PE) Ler, com autonomia, boletos, faturas e carnês, dentre outros gêneros do campo da vida cotidiana, de acordo com as convenções do gênero (campos, itens elencados, medidas de consumo, código de barras), considerando a situação comunicativa: (os interlocutores (quem escreve/para quem escreve); a finalidade ou o propósito (escrever para quê); a circulação (onde o texto vai circular; o suporte (qual é o portador do texto); a linguagem, organização e forma do texto)."
+                        },
+                        {
+                            "tema": "Leitura/escuta (compartilhada e autônoma): Campo da vida pública",
+                            "subtema": "Compreensão em leitura",
+                            "descrição": "Compreensão em leitura",
+                            "atividades": "(EF04LP14PE) Identificar, no gênero notícia, fatos, participantes, local e momento/tempo da ocorrência do fato noticiado."
+                        },
+                        {
+                            "tema": "Leitura/escuta (compartilhada e autônoma): Campo da vida pública",
+                            "subtema": "Compreensão em leitura",
+                            "descrição": "Fato/opinião",
+                            "atividades": "(EF04LP15PE) Distinguir fatos de opiniões/sugestões em textos (informativos, jornalísticos, publicitários etc.)"
+                        },
+                        {
+                            "tema": "Leitura/escuta (compartilhada e autônoma): Campo das práticas de estudo e pesquisa",
+                            "subtema": "Pesquisa",
+                            "descrição": "Pesquisa",
+                            "atividades": "(EF35LP17PE) Buscar e selecionar, com o apoio do professor, informações de interesse sobre fenômenos sociais e naturais locais, regionais e nacionais, em textos que circulam em meios impressos ou digitais."
+                        },
+                        {
+                            "tema": "Leitura/escuta (compartilhada e autônoma): Campo artísticoliterário",
+                            "subtema": "Compreensão em leitura",
+                            "descrição": "Compreensão em leitura",
+                            "atividades": "(EF04LP19PE) Ler textos expositivos de divulgação científica para crianças, considerando a situação comunicativa: (os interlocutores (quem escreve/para quem escreve); a finalidade ou o propósito (escrever para quê); a circulação (onde o texto vai circular; o suporte (qual é o portador do texto); a linguagem, organização e forma do texto) e o tema/ assunto do texto."
+                        },
+                        {
+                            "tema": "Leitura/escuta (compartilhada e autônoma): Campo artísticoliterário",
+                            "subtema": "Imagens analíticas em textos",
+                            "descrição": "Leitura de gráﬁcos /tabelas/diagramas em textos",
+                            "atividades": "(EF04LP20PE) Ler e reconhecer a função de gráficos, diagramas e tabelas em textos, como forma de apresentação de dados e\ninformações."
+                        },
+                        {
+                            "tema": "Leitura/escuta (compartilhada e autônoma): Campo artísticoliterário",
+                            "subtema": "Formação do leitor",
+                            "descrição": "Compreensão da dimensão lúdica/ estilísticade em textos poéticos",
+                            "atividades": "(EF15LP15PE) Reconhecer que os textos literários, tanto em versos como em prosa, fazem parte do mundo do imaginário e apresentam uma dimensão lúdica, de encantamento, valorizando-os, em sua diversidade cultural, como patrimônio artístico da humanidade."
+                        },
+                        {
+                            "tema": "Leitura/escuta (compartilhada e autônoma): Campo artísticoliterário",
+                            "subtema": "Leitura colaborativa e autônoma",
+                            "descrição": "Leitura de gêneros com estrutura narrativa",
+                            "atividades": "(EF15LP16PE) Ler em colaboração com os colegas e com a ajuda do professor e, mais tarde, de maneira autônoma, textos narrativos de maior porte como contos (populares, de fadas, acumulativos, de assombração etc.) e crônicas, atentando para seus aspectos linguísticos e poéticos."
+                        },
+                        {
+                            "tema": "Leitura/escuta (compartilhada e autônoma): Campo artísticoliterário",
+                            "subtema": "Formação do leitor literário/Leitura multissemiótica",
+                            "descrição": "Relaçã texto/ilustração/recurso gráﬁco",
+                            "atividades": "(EF15LP18PE) Relacionar texto com ilustrações e outros recursos gráficos, visando à construção de sentido do texto."
+                        },
+                        {
+                            "tema": "Leitura/escuta (compartilhada e autônoma): Campo artísticoliterário",
+                            "subtema": "Formação do leitor literário",
+                            "descrição": "Compreensão",
+                            "atividades": "(EF35LP21PE) Ler e/ou sinalizar, de forma autônoma, textos literários de diferentes gêneros e extensões, inclusive aqueles sem ilustrações, de autores locais, regionais e nacionais, comentando-os e estabelecendo preferências por gêneros, temas, autores."
+                        },
+                        {
+                            "tema": "Leitura/escuta (compartilhada e autônoma): Campo artísticoliterário",
+                            "subtema": "Formação do leitor literário/Leitura multissemiótica",
+                            "descrição": "Verbos de enunciação/marcas linguísticas",
+                            "atividades": "(EF35LP22PE) Perceber diálogos em textos narrativos, observando o efeito de sentido de verbos de enunciação, marcas linguísticas e, se for o caso, o uso de variedades linguísticas no discurso direto, e sua relevância para a construção de sentidos dos textos."
+                        },
+                        {
+                            "tema": "Leitura/escuta (compartilhada e autônoma): Campo artísticoliterário",
+                            "subtema": "Textos dramáticos",
+                            "descrição": "Textos dramáticos",
+                            "atividades": "(EF35LP24PE) Identificar funções do texto dramático (escrito para ser encenado) e sua organização por meio de diálogos entre personagens e marcadores das falas das personagens e de cena e a relevância desses aspectos para a construção de sentido."
+                        },
+                        {
+                            "tema": "Oralidade: Todos os campos de atuação",
+                            "subtema": "Escuta atenta",
+                            "descrição": "Escuta atenta com interação",
+                            "atividades": "(EF15LP10PE) Escutar/visualizar, com atenção, falas de professores e colegas, formulando perguntas pertinentes ao tema e solicitando esclarecimentos sempre que necessário."
+                        },
+                        {
+                            "tema": "Oralidade: Todos os campos de atuação",
+                            "subtema": "Características da conversação espontânea",
+                            "descrição": "Conversação espontânea",
+                            "atividades": "(EF15LP11PE) Reconhecer características da conversação espontânea presencial, respeitando os turnos de fala, selecionando e utilizando, durante a conversação, formas adequadas de tratamento, de acordo com a situação e a posição do interlocutor."
+                        },
+                        {
+                            "tema": "Oralidade: Todos os campos de atuação",
+                            "subtema": "Aspectos não linguísticos (paralinguísticos) no ato da fala",
+                            "descrição": "Aspectos não linguísticos no ato de fala",
+                            "atividades": "(EF15LP12PE) Atribuir significado a aspectos não linguísticos (paralinguísticos) observados na fala, como direção do olhar, riso, gestos, movimentos da cabeça (de concordância ou discordância), expressão corporal, tom de voz, em situação comunicativa."
+                        },
+                        {
+                            "tema": "Oralidade: Todos os campos de atuação",
+                            "subtema": "Relato oral/Registro formal e informal",
+                            "descrição": "Finalidades da interação oral",
+                            "atividades": "(EF15LP13PE) Identificar finalidades da interação oral em diferentes contextos comunicativos (solicitar informações, apresentar opiniões, informar, relatar experiências etc.)."
+                        },
+                        {
+                            "tema": "Oralidade: Todos os campos de atuação",
+                            "subtema": "Forma de composição de gêneros orais",
+                            "descrição": "Planejamento e produção de gêneros orais",
+                            "atividades": "(EF35LP10PE) Identificar, planejar e produzir gêneros textuais orais, utilizados em diferentes situações e contextos comunicativos: (os interlocutores (quem escreve/para quem escreve); a finalidade ou o propósito (escrever para quê); a circulação (onde o texto vai circular; o suporte (qual é o portador do texto), e suas características linguístico- expressivas e composicionais (conversação espontânea, seminários, aulas expositivas, conversação telefônica, entrevistas pessoais, entrevistas no rádio ou na TV, debate, noticiário de rádio e TV, narração de jogos esportivos no rádio e TV, aula, debate etc.)."
+                        },
+                        {
+                            "tema": "Oralidade: Campo da vida pública",
+                            "subtema": "Planejamento e produção",
+                            "descrição": "Planejamento/produção de gêneros da oralidade",
+                            "atividades": "(EF04LP17PE) Produzir jornais radiofônicos ou televisivos e entrevistas veiculadas em rádio, TV e na internet, orientando-se por roteiro ou texto e demonstrando conhecimento dos gêneros jornal falado/televisivo e entrevista."
+                        },
+                        {
+                            "tema": "Oralidade: Campo das práticas de estudo e pesquisa",
+                            "subtema": "Escuta de textos orais",
+                            "descrição": "Escuta atenta/respeitosa e interativa",
+                            "atividades": "(EF35LP18PE) Escutar, com atenção e respeito, apresentações de trabalhos realizadas por colegas, formulando perguntas pertinentes a temas sociais locais/regionais/nacionais relevantes e solicitando esclarecimentos sempre que necessário, visando à construção de sentidos a partir de textos orais."
+                        },
+                        {
+                            "tema": "Oralidade: Campo das práticas de estudo e pesquisa",
+                            "subtema": "Compreensão de textos orais",
+                            "descrição": "Ideia central em gêneros da oralidade",
+                            "atividades": "(EF35LP19PE) Recuperar as ideias principais em situações formais de escuta de exposições, apresentações e palestras, com foco em temáticas sociais, regionais e nacionais."
+                        },
+                        {
+                            "tema": "Oralidade: Campo das práticas de estudo e pesquisa",
+                            "subtema": "Planejamento de texto oral\nExposição oral",
+                            "descrição": "Exposição de trabalho e pesquisa",
+                            "atividades": "(EF35LP20PE) Expor, oralmente, trabalhos ou pesquisas escolares, em sala de aula, atentando para as especificidades desses gêneros, com apoio de recursos multissemióticos (imagens, diagrama, tabelas, etc.), orientando-se por roteiro escrito, planejando o tempo de fala e adequando a linguagem à situação comunicativa."
+                        },
+                        {
+                            "tema": "Oralidade:Campo artísticoliterário",
+                            "subtema": "Contagem de histórias",
+                            "descrição": "Reconto de gêneros literários",
+                            "atividades": "(EF15LP19PE) Recontar oralmente, com e sem apoio de imagem, textos literários, nacionais e regionais lidos ou sinalizados pelo professor ou pelo próprio estudante."
+                        },
+                        {
+                            "tema": "Produção de textos (escrita compartilhada e autônoma): Todos os campos de atuação",
+                            "subtema": "Planejamento de texto",
+                            "descrição": "Planejamento/produção/reescrita textual/situação comunicativa",
+                            "atividades": "(EF15LP05PE) Planejar, com a ajuda do professor, o texto que será produzido, considerando a situação comunicativa, os interlocutores (quem escreve/para quem escreve); a finalidade ou o propósito (escrever para quê); a circulação (onde o texto vai circular); o suporte (qual é o portador do texto); a linguagem, organização e forma do texto e seu tema, pesquisando em meios impressos ou digitais, sempre que for preciso, informações necessárias à produção do texto, organizando em tópicos os dados e as fontes pesquisadas."
+                        },
+                        {
+                            "tema": "Produção de textos (escrita compartilhada e autônoma): Todos os campos de atuação",
+                            "subtema": "Revisão de textos",
+                            "descrição": "Releitura/revisão/reescrita textual",
+                            "atividades": "(EF15LP06PE) Reler e revisar o texto produzido, individualmente ou com a ajuda do professor e a colaboração dos colegas, para ajustá-lo e aprimorá-lo, fazendo cortes, acréscimos, reformulações, correções de ortografia e pontuação, visando aos efeitos de sentidos pretendidos."
+                        },
+                        {
+                            "tema": "Produção de textos (escrita compartilhada e autônoma): Todos os campos de atuação",
+                            "subtema": "Edição de textos",
+                            "descrição": "Edição de texto",
+                            "atividades": "(EF15LP07PE) Editar a versão final do texto, em colaboração com os colegas e com a ajuda do professor, ilustrando, quando for o caso, em suporte adequado, manual ou digital."
+                        },
+                        {
+                            "tema": "Produção de textos (escrita compartilhada e autônoma): Todos os campos de atuação",
+                            "subtema": "Construção do sistema alfabético/ Convenções da escrita",
+                            "descrição": "Convenções da escrita",
+                            "atividades": "(EF35LP07PE) Utilizar, ao produzir um texto, conhecimentos linguísticos e gramaticais, tais como ortografia, regras básicas de concordância nominal e verbal, pontuação (ponto final, ponto de exclamação, ponto de interrogação, vírgulas em enumerações) e pontuação do discurso direto, quando for o caso."
+                        },
+                        {
+                            "tema": "Produção de textos (escrita compartilhada e autônoma): Todos os campos de atuação",
+                            "subtema": "Utilização de tecnologia digital",
+                            "descrição": "Edição e publicação de textos",
+                            "atividades": "(EF15LP08PE) Utilizar software, inclusive programas de edição de texto, para editar e publicar os textos produzidos (folhetos com orientações sobre questões/problemas locais, guias, pesquisas sobre povos/grupos, entre outros próximos da realidade/necessidade dos estudantes), explorando os recursos multissemióticos disponíveis, individualmente ou com ajuda do professor."
+                        },
+                        {
+                            "tema": "Produção de textos (escrita compartilhada e autônoma): Todos os campos de atuação",
+                            "subtema": "Construção do sistema alfabético/ Estabelecimento de relações anafóricas na referenciação e construção da coesão",
+                            "descrição": "Recurso de referenciação/coesão/ articuladores de sentido",
+                            "atividades": "(EF35LP08PE) Utilizar, ao produzir um texto, recursos de referenciação (por substituição lexical ou por pronomes pessoais, possessivos e demonstrativos), vocabulário apropriado ao gênero, recursos de coesão pronominal (pronomes anafóricos) e articuladores de relações de sentido (tempo, causa, oposição, conclusão, comparação), com nível suficiente de informatividade, que contribuem para a construção de sentidos dos textos."
+                        },
+                        {
+                            "tema": "Produção de textos (escrita compartilhada e autônoma): Todos os campos de atuação",
+                            "subtema": "Planejamento de texto/Progressão temática e paragrafação",
+                            "descrição": "Planejamento de texto/Progressão temática e paragrafação",
+                            "atividades": "(EF35LP09PE) Organizar o texto em unidades de sentido, dividindo-o em parágrafos, atentando para pertinência temática, progressão, segundo as normas gráficas e de acordo com as características do gênero textual."
+                        },
+                        {
+                            "tema": "Produção de textos (escrita compartilhada e autônoma): Campo da vida pública",
+                            "subtema": "Escrita colaborativa",
+                            "descrição": "Planejamento/produção/ reescrita de textos",
+                            "atividades": "(EF04LP16PE) Planejar e produzir notícias sobre fatos ocorridos no universo escolar, na comunidade local, em meios digitais ou impressos, para o jornal ou mural da escola, noticiando os fatos e seus atores e comentando decorrências, de acordo com as convenções do gênero notícia e considerando a situação comunicativa: (os interlocutores (quem escreve/para quem escreve); a finalidade ou o propósito (escrever para quê); a circulação (onde o texto vai circular; o suporte (qual é o portador do texto); a linguagem, organização e forma do texto) e o tema/assunto do texto, atentando para sua funcionalidade e a veracidade dos fatos."
+                        },
+                        {
+                            "tema": "Produção de textos (escrita compartilhada e autônoma): Campo da vida pública",
+                            "subtema": "Escrita colaborativa",
+                            "descrição": "Estrutura textual argumentativa",
+                            "atividades": "(EF35LP15PE) Opinar e defender de forma respeitosa, ponto de vista sobre tema polêmico, relacionado a situações vivenciadas na escola e/ou na comunidade, utilizando registro formal e estrutura adequada à argumentação, considerando a situação comunicativa, o tema/assunto do texto."
+                        },
+                        {
+                            "tema": "Produção de textos (escrita compartilhada e autônoma): Campo das práticas de estudo e pesquisa",
+                            "subtema": "Produção de texto",
+                            "descrição": "Planejamento/produção e reescrita textual",
+                            "atividades": "(EF04LP21PE) Planejar e produzir textos sobre temas de interesse, com base em resultados de observações e pesquisas em fontes de informações impressas ou eletrônicas, incluindo, quando pertinente, imagens, gráficos, infográficos ou tabelas simples, considerando a situação comunicativa: os interlocutores (quem escreve/para quem escreve); a finalidade ou o propósito (escrever para quê); a circulação (onde o texto vai circular; o suporte (qual é o portador do texto); a linguagem, organização e forma do texto) e o tema/assunto do texto."
+                        },
+                        {
+                            "tema": "Campo artísticoliterário",
+                            "subtema": "Escrita autônoma",
+                            "descrição": "Planejamento/produção/ reescrita de\ngêneros textuais",
+                            "atividades": "(EF04LP22PE) Planejar e produzir, com certa autonomia, verbetes de enciclopédia infantil, digitais ou impressos (análise dos verbetes de modo a explicar as suas características e construindo registros que possam repertoriar a produção etc.), considerando a situação comunicativa: os interlocutores (quem escreve/para quem escreve); a finalidade ou o propósito (escrever para quê); a circulação (onde o texto vai circular; o suporte (qual é o portador do texto); a linguagem, organização e forma do texto) e o tema/ assunto do texto."
+                        },
+                        {
+                            "tema": "Campo artísticoliterário",
+                            "subtema": "Escrita autônoma",
+                            "descrição": "Planejamento/produção/ reescrita de\ngêneros textuais",
+                            "atividades": "(EF04LP25PE) Planejar e produzir, com certa autonomia, verbetes de dicionário, digitais ou impressos, considerando a situação comunicativa: os interlocutores (quem escreve/para quem escreve); a finalidade ou o propósito (escrever para quê); a circulação (onde o texto vai circular; o suporte (qual é o portador do texto); a linguagem, organização e forma do texto) e o tema/ assunto do texto. e o tema/assunto/finalidade do texto."
+                        },
+                        {
+                            "tema": "Campo artísticoliterário",
+                            "subtema": "Escrita autônoma e compartilhada",
+                            "descrição": "Estrutura narrativa",
+                            "atividades": "(EF35LP25PE) Criar narrativas ficcionais, com certa autonomia, utilizando detalhes descritivos (de personagens, de sentimentos, de cenas, espaços/ambientes, dentre outros aspectos descritivos), sequências de eventos e imagens apropriadas para sustentar o sentido do texto, e marcadores de tempo, espaço e de fala de personagens."
+                        },
+                        {
+                            "tema": "Campo artísticoliterário",
+                            "subtema": "Escrita autônoma e compartilhada",
+                            "descrição": "Produção de gêneros com estrutura narrativa",
+                            "atividades": "(EF35LP26PE) Ler e escrever, com certa autonomia, narrativas ficcionais que apresentem cenários e personagens, observando os elementos da estrutura narrativa: enredo, tempo, espaço, personagens, narrador e a construção do discurso indireto e discurso direto, inferindo seus efeitos de sentidos."
+                        },
+                        {
+                            "tema": "Análise Linguística/ Semiótica (ortograﬁzação): Todos os campos de atuação",
+                            "subtema": "Construção do sistema alfabético e da ortograﬁa",
+                            "descrição": "Uso do dicionário em atividades de leitura e escrita",
+                            "atividades": "(EF35LP12PE) Recorrer, em atividades de leitura e escrita, ao dicionário e/ou outro recurso digital, para esclarecer dúvida sobre a escrita de palavras, especialmente no caso de palavras com relações irregulares fonema-grafema."
+                        },
+                        {
+                            "tema": "Análise Linguística/ Semiótica (ortograﬁzação): Todos os campos de atuação",
+                            "subtema": "Construção do sistema alfabético e da ortograﬁa",
+                            "descrição": "Ortograﬁa/emprego da letra h",
+                            "atividades": "(EF35LP13PE) Memorizar e empregar a grafia de palavras de uso frequente nas quais as relações fonema-grafema são irregulares e com h inicial que não representa fonema."
+                        },
+                        {
+                            "tema": "Análise Linguística/ Semiótica (ortograﬁzação): Todos os campos de atuação",
+                            "subtema": "Morfologia",
+                            "descrição": "Pronomes como recurso coesivo anafórico/construção de sentido",
+                            "atividades": "(EF35LP14PE) Identificar em textos e usar na produção textual pronomes pessoais, possessivos e demonstrativos, como recurso coesivo anafórico, visando à construção de sentidos dos textos lidos e escritos."
+                        },
+                        {
+                            "tema": "Análise Linguística/ Semiótica (ortograﬁzação): Todos os campos de atuação",
+                            "subtema": "Construção do sistema alfabético e da ortograﬁa",
+                            "descrição": "Reflexão sobre a escrita/correspondência fonema-grafema",
+                            "atividades": "(EF04LP01PE) Ler e grafar palavras, refletindo sobre a escrita, utilizando regras de correspondência fonema-grafema regulares diretas e contextuais, em atividades de produção textual."
+                        },
+                        {
+                            "tema": "Análise Linguística/ Semiótica (ortograﬁzação): Todos os campos de atuação",
+                            "subtema": "Construção do sistema alfabético e da ortograﬁa",
+                            "descrição": "Reﬂexão sobre a escrita",
+                            "atividades": "(EF04LP02PE) Ler, escrever e refletir sobre a grafia correta de palavras com sílabas VSV (vogal + semivogal) CVSV (consoante, vogal + semivogal) em casos nos quais a combinação VSV (ditongo) é reduzida na língua oral (ai, ei, ou), em atividades de produção textual."
+                        },
+                        {
+                            "tema": "Análise Linguística/ Semiótica (ortograﬁzação): Todos os campos de atuação",
+                            "subtema": "Conhecimento do alfabeto do português do Brasil/Ordem alfabética/ Polissemia",
+                            "descrição": "Polissemia",
+                            "atividades": "(EF04LP03PE) Localizar palavras no dicionário para esclarecer significados, reconhecendo o significado mais plausível para o contexto que deu origem à consulta."
+                        },
+                        {
+                            "tema": "Análise Linguística/ Semiótica (ortograﬁzação): Todos os campos de atuação",
+                            "subtema": "Pontuação",
+                            "descrição": "Pontuação",
+                            "atividades": "(EF04LP05PE) Identificar a função na leitura e usar, adequadamente, na escrita ponto final, de interrogação, de exclamação, dois-pontos e travessão em diálogos (discurso direto), vírgula em enumerações e em separação de vocativo e de aposto, atentando para os efeitos de sentido produzidos pelo uso no texto"
+                        },
+                        {
+                            "tema": "Análise Linguística/ Semiótica (ortograﬁzação): Todos os campos de atuação",
+                            "subtema": "Morfologia",
+                            "descrição": "Concordância verbal/ produção de sentido",
+                            "atividades": "(EF04LP06PE) Identificar em textos e usar na produção textual a concordância entre substantivo ou pronome pessoal e verbo (concordância verbal), adequando à produção de sentido do gênero produzido."
+                        },
+                        {
+                            "tema": "Análise Linguística/ Semiótica (ortograﬁzação): Campo da vida pública",
+                            "subtema": "Forma de composição dos textos",
+                            "descrição": "Composição de gêneros",
+                            "atividades": "(EF35LP16PE) Identificar e reproduzir, em notícias, manchetes, lides e corpo de notícias simples para público infantil e cartas de reclamação (revista infantil), digitais e impressos, a formatação e diagramação específica de cada um desses gêneros, inclusive em suas versões orais."
+                        },
+                        {
+                            "tema": "Análise Linguística/ Semiótica (ortograﬁzação): Campo da vida pública",
+                            "subtema": "Forma de composição dos textos",
+                            "descrição": "Forma de composição dos textos",
+                            "atividades": "(EF04LP18PE) Analisar o padrão entonacional e a expressão facial e corporal de âncoras de jornais radiofônicos ou televisivos e de entrevistadores/entrevistados."
+                        },
+                        {
+                            "tema": "Análise Linguística/ Semiótica (ortograﬁzação): Campo das práticas de estudo e pesquisa",
+                            "subtema": "Forma de composição dos textos\nCoesão e articuladores",
+                            "descrição": "Forma de composição dos textos coesão e articuladores",
+                            "atividades": "(EF04LP23PE) Identificar e reproduzir, em verbetes de enciclopédia infantil, digitais ou impressos, a formatação e diagramação específica desse gênero (título do verbete, definição, detalhamento, curiosidades), considerando a situação comunicativa: (os interlocutores (quem escreve/para quem escreve); a finalidade ou o propósito (escrever para quê); a circulação (onde o texto vai circular; o suporte (qual é o portador do texto); a linguagem, organização e forma do texto) e o tema/assunto do texto, em atividade de leitura e escrita. (EF04LP24PE) Identificar, produzir e reproduzir, em seu formato, tabelas, diagramas e gráficos em relatórios de observação e pesquisa, como forma de apresentação de dados e informações."
+                        },
+                        {
+                            "tema": "Análise Linguística/ Semiótica (ortograﬁzação):Campo artísticoliterário",
+                            "subtema": "Discurso direto e indireto",
+                            "descrição": "Discurso direto e indireto",
+                            "atividades": "(EF35LP30PE) Diferenciar discurso indireto e discurso direto, determinando o efeito de sentido de verbos de enunciação e explicando o uso de variedades linguísticas no discurso direto, quando for o caso e sua relevância na construção de sentidos dos textos."
+                        },
+                        {
+                            "tema": "Análise Linguística/ Semiótica (ortograﬁzação):Campo artísticoliterário",
+                            "subtema": "Forma de composição de textos dramáticos",
+                            "descrição": "Forma de composição de textos dramáticos",
+                            "atividades": "(EF04LP27PE) Identificar, em textos dramáticos, marcadores das falas das personagens e de cena, em atividade de leitura e dramatização de textos."
+                        }
+                    ]
+                },
+                {
+                    "disciplina": "MATEMÁTICA",
+                    "conteudos": [
+                        {
+                            "tema": "Números",
+                            "subtema": "Números racionais: frações unitárias mais usuais (1/2, 1/3, 1/4, 1/5, 1/10 e 1/100).",
+                            "descrição": "Leitura e escrita de frações; Reconhecimento e compreensão das frações unitárias mais usuais (1/2, 1/3, 1/4, 1/5, 1/10 e 1/100); Localização de\nfrações na reta numérica; Representação gráﬁca de frações; Comparação de frações; Representação e cálculo de frações de quantidade, envolvendo meios, terços,\nquartos, quintos e sextos, etc; Representação e cálculo de frações de\nquantidades discretas e contínuas, envolvendo décimos e centésimos; Representação e cálculo de frações de quantidades discretas e contínuas, como: 1/2, 1/3, 1/4, 1/5, 1/6, 1/8, 1/10 e 1/100.",
+                            "atividades": "(EF04MA09PE) Reconhecer as frações unitárias mais usuais (1/2,1/3, 1/4, 1/5, 1/10 e 1/100) como unidades de medida menores do que uma unidade, utilizando a reta numérica como recurso, entre outros."
+                        },
+                        {
+                            "tema": "Números",
+                            "subtema": "Números racionais: representação decimal para escrever valores\ndo sistema monetário brasileiro.",
+                            "descrição": "Relação entre representações de frações e de números na forma decimal; Leitura e escrita de números na forma decimal; Relação entre décimos e centésimos em contextos do sistema monetário brasileiro; Resolução de problemas relacionados à transformação de números decimais em frações decimais e vice-versa.",
+                            "atividades": "(EF04MA10PE) Reconhecer que as regras do sistema de numeração decimal podem ser estendidas para a representação decimal de um número racional e relacionar décimos e centésimos com a representação do sistema monetário brasileiro"
+                        },
+                        {
+                            "tema": "Álgebra",
+                            "subtema": "Propriedades da igualdade",
+                            "descrição": "Compreensão de que a relação de igualdade existente entre dois termos não se altera quando se adiciona ou subtrai um mesmo número a cada um de seus termos; Resolução e elaboração de problemas em que um dos termos da sentença matemática seja desconhecido; Ideia de igualdade como equivalência; Compreensão que subtrair o mesmo número de dois termos de uma subtração, não altera o resultado; Resolução de problema reconhecendo que uma igualdade não se altera quando se adiciona um mesmo número a seus dois termos; Reconhecimento que uma igualdade não se altera quando se multiplica um mesmo número a seus dois membros; Localização de número desconhecido que torna verdadeira uma igualdade em adições e subtrações; Localização de número desconhecido que torna verdadeira uma igualdade que envolve multiplicações e divisões com números naturais.",
+                            "atividades": "(EF04MA14PE) Reconhecer e mostrar, por meio de exemplos, que a relação de igualdade existente entre dois termos permanece quando se adiciona ou se subtrai um mesmo número a cada um desses termos."
+                        },
+                        {
+                            "tema": "Álgebra",
+                            "subtema": "Propriedades da igualdade",
+                            "descrição": "Compreensão de que a relação de igualdade existente entre dois termos não se altera quando se adiciona ou subtrai um mesmo número a cada um de seus termos; Resolução e elaboração de problemas em que um dos termos da sentença matemática seja desconhecido; Ideia de igualdade como equivalência; Compreensão que subtrair o mesmo número de dois termos de uma subtração, não altera o resultado; Resolução de problema reconhecendo que uma igualdade não se altera quando se adiciona um mesmo número a seus dois termos; Reconhecimento que uma igualdade não se altera quando se multiplica um mesmo número a seus dois membros; Localização de número desconhecido que torna verdadeira uma igualdade em adições e subtrações; Localização de número desconhecido que torna verdadeira uma igualdade que envolve multiplicações e divisões com números naturais.",
+                            "atividades": "(EF04MA15PE) Determinar o número desconhecido que torna verdadeira uma igualdade que envolve as operações fundamentais com números naturais."
+                        },
+                        {
+                            "tema": "Geometria",
+                            "subtema": "Simetria de reﬂexão.",
+                            "descrição": "Identiﬁcação de eixos de simetria de uma ﬁgura; Reconhecimento de simetria de reﬂexão em ﬁguras e em pares de ﬁguras geométricas planas; Utilização da simetria de reﬂexão na construção\nde ﬁguras\ncongruentes; Percepção visual na construção de ﬁguras simétricas; Característica da simetria e do eixo de simetria de ﬁguras geométricas; Reconhecimento de ﬁguras planas simétricas e seus eixos de simetria; Imagens de ﬁguras simétricas e seus eixos de simetria; Reconhecimento de ﬁguras que\nadmitem e não admitem eixos de simetria, identiﬁcando os seus eixos; Construção de ﬁguras congruentes.",
+                            "atividades": "(EF04MA19PE) Reconhecer simetria de reflexão em figuras e em pares de figuras geométricas planas e utilizá-la na construção de figuras congruentes, com o uso de malhas quadriculadas e de softwares de geometria."
+                        },
+                        {
+                            "tema": "Grandezas e Medidas",
+                            "subtema": "Problemas utilizando o sistema monetário brasileiro.",
+                            "descrição": "Resolução e elaboração de problemas que envolvam a ideia de compra, venda e formas de pagamento, utilizando termos como troco e desconto; Compreensão da importância do consumo ético, consciente e responsável. Organização, coleta, classiﬁcação e representação dos dados de uma pesquisa por meio de tabelas e gráﬁcos de colunas simples ou agrupadas.",
+                            "atividades": "(EF04MA25PE) Resolver e elaborar problemas que envolvam situações de compra e venda e formas de pagamento, utilizando termos como troco e desconto, enfatizando o consumo ético, consciente e responsável."
+                        },
+                        {
+                            "tema": "Probabilidade e Estatística",
+                            "subtema": "Coleta, classiﬁcação e representação de dados de pesquisa realizada.",
+                            "descrição": "Realização de pesquisa com variáveis categóricas e numéricas;",
+                            "atividades": "(EF04MA28PE) Realizar pesquisa envolvendo variáveis categóricas e numéricas e organizar dados coletados por meio de tabelas e gráficos de colunas simples ou agrupadas, com e sem uso de tecnologias digitais."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "serie": "5º ANO",
+            "disciplinas": [
+                {
+                    "disciplina": "ARTES",
+                    "conteudos": [
+                        {
+                            "tema": "Artes Visuais",
+                            "subtema": "Contextos e práticas",
+                            "descrição": "A influência das diversas expressões artísticas na representação visual;Produção de trabalhos visuais em diálogo com outras linguagens artísticas;A representação visual e identidade cultural regional;A influência das tecnologias digitais na representação visual.",
+                            "atividades": "(EF45AR01PE) Identificar e ler formas distintas das artes visuais tradicionais e contemporâneas, exercitando a percepção, o imaginário, a capacidade de simbolizar e analisar, como também relacionando com o repertório imagético em processo de construção."
+                        },
+                        {
+                            "tema": "Artes Visuais",
+                            "subtema": "Elementos da linguagem",
+                            "descrição": "A influência das diversas expressões artísticas na representação visual;Produção de trabalhos visuais em diálogo com outras linguagens artísticas;A representação visual e identidade cultural regional;A influência das tecnologias digitais na representação visual.",
+                            "atividades": "(EF45AR02PE) Identificar e analisar (formal e subjetivamente) elementos constitutivos das artes visuais (ponto, linha, forma, cor, textura, espaço, movimento etc.) na leitura e composição de criações artísticas."
+                        },
+                        {
+                            "tema": "Artes Visuais",
+                            "subtema": "Matrizes estéticas e culturais",
+                            "descrição": "A influência das diversas expressões artísticas na representação visual;Produção de trabalhos visuais em diálogo com outras linguagens artísticas;A representação visual e identidade cultural regional;A influência das tecnologias digitais na representação visual.",
+                            "atividades": "(EF45AR03PE) Reconhecer e analisar a influência de diferentes matrizes estéticas e culturais das artes visuais nas manifestações artísticas das culturas locais, regionais e nacionais e/ou internacionais."
+                        },
+                        {
+                            "tema": "Artes Visuais",
+                            "subtema": "Materialidades",
+                            "descrição": "A influência das diversas expressões artísticas na representação visual;Produção de trabalhos visuais em diálogo com outras linguagens artísticas;A representação visual e identidade cultural regional;A influência das tecnologias digitais na representação visual.",
+                            "atividades": "(EF15AR04PE) Experimentar diferentes formas de expressão artística (desenho, pintura, gravura, colagem, quadrinhos, dobradura, escultura, modelagem, instalação, vídeo, fotografia\netc.), fazendo uso sustentável de materiais, instrumentos, recursos e técnicas convencionais e não convencionais."
+                        },
+                        {
+                            "tema": "Artes Visuais",
+                            "subtema": "Processos de criação",
+                            "descrição": "A influência das diversas expressões artísticas na representação visual;Produção de trabalhos visuais em diálogo com outras linguagens artísticas;A representação visual e identidade cultural regional;A influência das tecnologias digitais na representação visual.",
+                            "atividades": "(EF15AR05PE) Experimentar a criação em artes visuais de modo individual, coletivo e colaborativo, explorando diferentes\nespaços da escola e da comunidade com respeito e adequação à estrutura dos diversos ambientes."
+                        },
+                        {
+                            "tema": "Artes Visuais",
+                            "subtema": "Processos de criação",
+                            "descrição": "A influência das diversas expressões artísticas na representação visual;Produção de trabalhos visuais em diálogo com outras linguagens artísticas;A representação visual e identidade cultural regional;A influência das tecnologias digitais na representação visual.",
+                            "atividades": "(EF15AR06PE) Dialogar sobre a sua criação e a dos colegas, com respeito às individualidades, para perceber a diversidade de sentidos e as possibilidades de expressão."
+                        }
+                    ]
+                },
+                {
+                    "disciplina": "CIÊNCIAS",
+                    "conteudos": [
+                        {
+                            "tema": "Vida e Evolução",
+                            "subtema": "Nutrição do organismo\nHábitos alimentares\nIntegração entre os\nsistemas digestório,\nrespiratório e circulatório",
+                            "descrição": "Distúrbios nutricionais",
+                            "atividades": "(EF05CI09APE) Comparar diferentes modos de vida e dietas alimentares, identificando\nocorrência de distúrbios nutricionais"
+                        },
+                        {
+                            "tema": "Vida e Evolução",
+                            "subtema": "Nutrição do organismo\nHábitos alimentares\nIntegração entre os\nsistemas digestório,\nrespiratório e circulatório",
+                            "descrição": "Distúrbios nutricionais",
+                            "atividades": "(EF05CI09BPE) Reconhecer e discutir a ocorrência de distúrbios nutricionais (como\nobesidade, subnutrição etc.) entre crianças e jovens a partir da análise de seus hábitos\nalimentares, considerando os aspectos biológicos, afetivos, culturais, socioeconômicos,\neducacionais e psicológicos dos indivíduos frente aos tipos, a quantidade de alimento\ningerido e a prática de atividade física, etc."
+                        },
+                        {
+                            "tema": "Terra e Universo",
+                            "subtema": "Constelações e mapas\ncelestes\nMovimentos de rotação\ne de translação da Terra\nPeriodicidade das fases\nda Lua\nInstrumentos óticos",
+                            "descrição": "Tecnologia e instrumentos\nastronômicos",
+                            "atividades": "(EF05CI13PE) Projetar e construir dispositivos, utilizando recursos alternativos e/ou da\nrobótica para observação à distância (luneta, periscópio etc.), para observação\nampliada de objetos (lupas, microscópios) ou para registro de imagens (máquinas\nfotográficas) e discutir usos sociais desses dispositivos."
+                        },
+                        {
+                            "tema": "Matéria e Energia",
+                            "subtema": "Propriedades físicas dos\nmateriais\nCiclo hidrológico\nConsumo consciente\nReciclagem",
+                            "descrição": "Consumo consciente e\nreciclagem",
+                            "atividades": "(EF05CI05APE) Refletir, construir e desenvolver propostas coletivas para um consumo\nconsciente dos recursos naturais."
+                        },
+                        {
+                            "tema": "Matéria e Energia",
+                            "subtema": "Propriedades físicas dos\nmateriais\nCiclo hidrológico\nConsumo consciente\nReciclagem",
+                            "descrição": "Consumo consciente e\nreciclagem",
+                            "atividades": "(EF05CI05BPE) Compreender os processos de separação de resíduos e suas\naplicações no dia a dia, destacando a importância do descarte adequado, da reciclagem\ne do tratamento da água/esgoto, para a manutenção da saúde dos seres vivos e do\nambiente."
+                        },
+                        {
+                            "tema": "Matéria e Energia",
+                            "subtema": "Propriedades físicas dos\nmateriais\nCiclo hidrológico\nConsumo consciente\nReciclagem",
+                            "descrição": "Consumo consciente e\nreciclagem",
+                            "atividades": "(EF05CI05CPE) Propor e criar soluções voltadas para o descarte adequado e para a\nreutilização/reciclagem de materiais consumidos no dia a dia na escola e/ou na vida\ncotidiana."
+                        }
+                    ]
+                },
+                {
+                    "disciplina": "GEOGRAFIA",
+                    "conteudos": [
+                        {
+                            "tema": "Mundo do Trabalho",
+                            "subtema": "Trabalho no campo e na cidade",
+                            "descrição": "Atividades típicas da zona rural e da zona urbana. Gráﬁco mostrando a distribuição de trabalhadores nas atividades da zona rural e da zona urbana. Elementos da natureza que interferem no trabalho na zona rural. Diferenças entre as atividades de trabalho na zona rural e na zona urbana.",
+                            "atividades": "(EF04GE07PE) Identificar e comparar as características e o desenvolvimento do trabalho no campo e na cidade, contemplando especificidades de trabalho nas suas diversas formas."
+                        },
+                        {
+                            "tema": "Formas de representação e pensamento espacial",
+                            "subtema": "Produção, circulação e consumo",
+                            "descrição": "Correlação entre um produto e sua matéria-prima principal. Modos de produção Modo artesanal e o modo industrial de produção. Transformação do trigo em outros produtos.",
+                            "atividades": "(EF04GE08PE) Descrever e discutir o processo de produção (transformação de matérias-primas), circulação e consumo de diferentes produtos, considerando fluxos econômicos, de produção, de informações, de ideias e pessoas em diferentes escalas de análise."
+                        },
+                        {
+                            "tema": "Formas de representação e pensamento espacial",
+                            "subtema": "Sistema de orientação",
+                            "descrição": "Rosa dos ventos para localização de elementos. Direções cardeais nos arredores da escola. Rosa dos ventos para indicar a direção de alguns municípios do estado de Pernambuco a partir do município de Recife.",
+                            "atividades": "(EF04GE09PE) Utilizar as direções cardeais, fazendo uso de instrumentos tais como bússolas, mapas e outros na localização de componentes físicos e humanos nas paisagens rurais e urbanas, com a finalidade de o estudante perceber o lugar que ele ocupa no espaço e sua posição em relação ao espaço local e regional."
+                        }
+                    ]
+                },
+                {
+                    "disciplina": "HISTÓRIA",
+                    "conteudos": [
+                        {
+                            "tema": "Registros da\nhistória:\nlinguagens e\nculturas",
+                            "subtema": "O surgimento da escrita\ne a noção de fonte para\na transmissão de\nsaberes, culturas e\nhistórias",
+                            "descrição": "Utilizar variados tipos de fontes,\ndocumentos, indícios para\ncomparar aspectos do dia a dia\ndas pessoas de diversos grupos\nsociais e relacioná-los com a vida\npessoal e familiar de cada aluno.",
+                            "atividades": "(EF05HI08PE) Identificar formas de marcação da passagem do tempo em\ndistintas sociedades, incluindo os povos indígenas originários e os povos\nafricanos."
+                        },
+                        {
+                            "tema": "Registros da\nhistória:\nlinguagens e\nculturas",
+                            "subtema": "O surgimento da escrita\ne a noção de fonte para\na transmissão de\nsaberes, culturas e\nhistórias",
+                            "descrição": "Destacar a presença das\ncomunidades indígenas e\nquilombolas e suas diferenças.",
+                            "atividades": "(EF05HI09PE) Comparar pontos de vista sobre temas que impactam a vida\ncotidiana no tempo presente por meio do acesso a diferentes fontes,\nincluindo orais, memorialísticas, imagéticas, entre outras, associando-as\ncom contextos sociais, econômicos, culturais e políticos mais amplos."
+                        }
+                    ]
+                },
+                {
+                    "disciplina": "HISTÓRIA LOCAL",
+                    "conteudos": [
+                        {
+                            "tema": "Cultura Local e Cidadania",
+                            "subtema": "Gestão Municipal",
+                            "descrição": "Prefeitos do Município",
+                            "atividades": "Perceber as transformações de prefeitos ocorridos no local onde mora;"
+                        },
+                        {
+                            "tema": "Cultura Local e Cidadania",
+                            "subtema": "Gestão Municipal",
+                            "descrição": "Formação administrativa",
+                            "atividades": "Identificar os prefeitos eleitos pelo povo."
+                        },
+                        {
+                            "tema": "Cultura Local e Cidadania",
+                            "subtema": "Cultura Local",
+                            "descrição": "Festividade",
+                            "atividades": "Perceber as tradições do local ou comunidade de residência"
+                        },
+                        {
+                            "tema": "Cultura Local e Cidadania",
+                            "subtema": "Cultura Local",
+                            "descrição": "Arte",
+                            "atividades": "Compreender as festividades como espaço de lazer e a importância destes no convívio social"
+                        },
+                        {
+                            "tema": "Cultura Local e Cidadania",
+                            "subtema": "Cultura Local",
+                            "descrição": "Artista da região",
+                            "atividades": "Participar de danças a partri de elementos relacionados a cultura local"
+                        },
+                        {
+                            "tema": "Cultura Local e Cidadania",
+                            "subtema": "Cultura Local",
+                            "descrição": "Historiador da cidade",
+                            "atividades": "Pesquisar os artistas locais, percebendo a sua importância para convívio escolar, família e social;"
+                        },
+                        {
+                            "tema": "Cultura Local e Cidadania",
+                            "subtema": "Os poderes do município",
+                            "descrição": "Executivo",
+                            "atividades": "Executar atividades relacionadas a serviços públicos de acordo com a legislação vigente;"
+                        },
+                        {
+                            "tema": "Cultura Local e Cidadania",
+                            "subtema": "Os poderes do município",
+                            "descrição": "Executivo",
+                            "atividades": "Conhecer os poderes que regem o Município"
+                        },
+                        {
+                            "tema": "Cultura Local e Cidadania",
+                            "subtema": "Os poderes do município",
+                            "descrição": "Legislativo",
+                            "atividades": "Conhecer os representates do povo na Câmara Municipal."
+                        },
+                        {
+                            "tema": "Cultura Local e Cidadania",
+                            "subtema": "Os poderes do município",
+                            "descrição": "Judiciário",
+                            "atividades": "Identificar os representantes do poder Legislativo, Judiciário e Executivo;"
+                        },
+                        {
+                            "tema": "Cultura Local e Cidadania",
+                            "subtema": "Os poderes do município",
+                            "descrição": "Judiciário",
+                            "atividades": "Promover debates sobre os poderes que exercem o município;"
+                        }
+                    ]
+                },
+                {
+                    "disciplina": "PORTUGUÊS",
+                    "conteudos": [
+                        {
+                            "tema": "Leitura/escuta\n(compartilhada e autônoma): Todos os campos de atuação",
+                            "subtema": "Reconstrução das condições de produção e recepção de textos",
+                            "descrição": "Função Social e Comunicativa dos textos",
+                            "atividades": "(EF15LP01PE) Identificar a função social de textos que circulam no cotidiano, nas mídias impressa, de massa e digital, reconhecendo para que foram produzidos, onde circulam, quem os produziu e a quem se destinam e que os gêneros possuem funções sociais relacionadas aos campos de atuação nos quais circulam."
+                        },
+                        {
+                            "tema": "Leitura/escuta\n(compartilhada e autônoma): Todos os campos de atuação",
+                            "subtema": "Estratégia de leitura",
+                            "descrição": "Expectativas e pressuposições antecipadoras de sentido no texto",
+                            "atividades": "(EF15LP02PE) Estabelecer expectativas em relação ao texto que vai ler (pressuposições antecipadoras dos sentidos, da forma e da função social do texto), apoiando-se em seus conhecimentos prévios sobre as condições de produção e recepção desse texto, o gênero, o suporte e o universo temático, bem como sobre saliências textuais, recursos gráficos, imagens, dados da própria obra (índice, prefácio etc.), confirmando antecipações e inferências realizadas antes e durante a leitura de textos, checando a adequação das hipóteses realizadas"
+                        },
+                        {
+                            "tema": "Leitura/escuta\n(compartilhada e autônoma): Todos os campos de atuação",
+                            "subtema": "Estratégia de leitura",
+                            "descrição": "Informações explícitas",
+                            "atividades": "(EF15LP03PE) Localizar informações explícitas em diferentes gêneros lidos, ouvidos e/ou sinalizados."
+                        },
+                        {
+                            "tema": "Leitura/escuta\n(compartilhada e autônoma): Todos os campos de atuação",
+                            "subtema": "Estratégia de leitura",
+                            "descrição": "Efeito de sentido de recursos expressivos e gráficos",
+                            "atividades": "(EF15LP04PE) Identificar o efeito de sentido produzido pelo uso de recursos expressivos e gráficos visuais (letra capitular, negrito, itálico, som em movimento, cores e imagens etc.) em textos multissemióticos e multimodais."
+                        },
+                        {
+                            "tema": "Leitura/escuta\n(compartilhada e autônoma): Todos os campos de atuação",
+                            "subtema": "Decodiﬁcação/ compreensão de\nleitura",
+                            "descrição": "Leitura silenciosa/em voz alta",
+                            "atividades": "(EF35LP01PE) Ler, silenciosamente e, em seguida, em voz alta, com autonomia, e compreensão, textos com nível de textualidade adequado."
+                        },
+                        {
+                            "tema": "Leitura/escuta\n(compartilhada e autônoma): Todos os campos de atuação",
+                            "subtema": "Formação do leitor",
+                            "descrição": "Leitura individual/justiﬁcativa e opinião após leitura",
+                            "atividades": "(EF35LP02PE) Selecionar livros da biblioteca e/ou do cantinho de leitura da sala de aula e/ou disponíveis em meios digitais para leitura individual, justificando a escolha e compartilhando com os colegas sua opinião, após a leitura."
+                        },
+                        {
+                            "tema": "Leitura/escuta\n(compartilhada e autônoma): Todos os campos de atuação",
+                            "subtema": "Compreensão",
+                            "descrição": "Ideia central do texto",
+                            "atividades": "(EF35LP03PE) Identificar a ideia central do texto, demonstrando compreensão global, em textos lidos ouvidos e/ou sinalizados."
+                        },
+                        {
+                            "tema": "Leitura/escuta\n(compartilhada e autônoma): Todos os campos de atuação",
+                            "subtema": "Estratégia de leitura",
+                            "descrição": "Informações implícitas",
+                            "atividades": "(EF35LP04PE) Inferir informações implícitas em textos lidos, ouvidos e/ou sinalizados."
+                        },
+                        {
+                            "tema": "Leitura/escuta\n(compartilhada e autônoma): Todos os campos de atuação",
+                            "subtema": "Estratégia de leitura",
+                            "descrição": "Inferência",
+                            "atividades": "(EF35LP05PE) Inferir o sentido de palavras ou expressões em textos, com base no contexto de uso."
+                        },
+                        {
+                            "tema": "Leitura/escuta\n(compartilhada e autônoma): Todos os campos de atuação",
+                            "subtema": "Estratégia de leitura",
+                            "descrição": "Substituição lexical/pronominal na construção de sentido do texto",
+                            "atividades": "(EF35LP06PE) Recuperar relações entre partes de um texto, identificando substituições lexicais (de substantivos por sinônimos) ou pronominais (uso de pronomes anafóricos – pessoais, possessivos, demonstrativos), que contribuem para a continuidade e construção de sentidos do texto."
+                        },
+                        {
+                            "tema": "Leitura/escuta\n(compartilhada e autônoma): Campo das\npráticas de\nestudo",
+                            "subtema": "Compreensão de\nleitura",
+                            "descrição": "Leitura de\nverbetes\nimpressos/online",
+                            "atividades": "(EF05LP22PE) Ler verbetes de dicionário impresso/online, identificando a estrutura, as informações gramaticais (significado de abreviaturas) e as informações semânticas de forma contextualizada."
+                        },
+                        {
+                            "tema": "Leitura/escuta\n(compartilhada e autônoma): Campo\nartísticoliterário",
+                            "subtema": "Formação do leitor\nliterário",
+                            "descrição": "Compreensão da\ndimensão\nlúdica/estilística de\ntextos em verso e prosa",
+                            "atividades": "(EF15LP15PE) Reconhecer que os textos literários, tanto em versos como em prosa, fazem parte do mundo do imaginário e apresentam uma dimensão lúdica, de encantamento, valorizando-os, em sua diversidade cultural, como patrimônio artístico da humanidade."
+                        },
+                        {
+                            "tema": "Leitura/escuta\n(compartilhada e\nautônoma); Campo da vida\npública",
+                            "subtema": "Compreensão em\nleitura",
+                            "descrição": "Comparação e análise\nde informações",
+                            "atividades": "(EF05LP16PE) Comparar e analisar informações sobre um mesmo fato veiculado em diferentes mídias, concluindo sobre quais seriam mais confiáveis e por quê."
+                        },
+                        {
+                            "tema": "Leitura/escuta\n(compartilhada e autônoma): Campo\nartísticoliterário",
+                            "subtema": "Leitura\ncolaborativa e\nautônoma",
+                            "descrição": "Leitura de gêneros com\nestrutura narrativa",
+                            "atividades": "(EF15LP16PE) Ler, em colaboração com os colegas e com a ajuda do professor e, mais tarde, de maneira autônoma, textos narrativos de maior porte como contos (populares, de fadas, acumulativos, de assombração etc.) e crônicas, atentando para seus aspectos linguístico-estilísticos."
+                        },
+                        {
+                            "tema": "Leitura/escuta\n(compartilhada e autônoma): Campo\nartísticoliterário",
+                            "subtema": "Apreciação\nestética/Estilo",
+                            "descrição": "Apreciação de poemas\nvisuais e concretos",
+                            "atividades": "(EF15LP17PE) Apreciar e comentar poemas visuais e concretos, compreendendo os efeitos de sentido criados pelo formato do texto na página, distribuição e diagramação das letras, pelas ilustrações e por outros efeitos visuais."
+                        },
+                        {
+                            "tema": "Leitura/escuta\n(compartilhada e autônoma): Campo\nartísticoliterário",
+                            "subtema": "Formação do leitor literário/Leitura multissemiótica",
+                            "descrição": "Relação texto/ilustração/recurso gráﬁco",
+                            "atividades": "(EF15LP18PE) Relacionar texto com ilustrações e outros recursos gráficos, visando à construção de sentido do texto."
+                        },
+                        {
+                            "tema": "Leitura/escuta\n(compartilhada e autônoma): Campo\nartísticoliterário",
+                            "subtema": "Formação do leitor\nliterário",
+                            "descrição": "Compreensão de textos\nliterários",
+                            "atividades": "(EF35LP21PE) Ler, de forma autônoma, textos literários de diferentes gêneros e extensões, inclusive aqueles sem ilustrações, de autores locais, regionais e nacionais, comentando-os e estabelecendo preferências por gêneros, temas, autores."
+                        },
+                        {
+                            "tema": "Leitura/escuta\n(compartilhada e autônoma): Campo\nartísticoliterário",
+                            "subtema": "Textos dramáticos",
+                            "descrição": "Funções e marcas do\ntexto dramático",
+                            "atividades": "(EF35LP24PE) Identificar funções do texto dramático (escrito para ser encenado) e sua organização por meio de diálogos entre personagens e marcadores das falas das personagens e de cena e a relevância desses aspectos para a construção de sentido."
+                        },
+                        {
+                            "tema": "Oralidade; Todos os\ncampos de\natuação",
+                            "subtema": "Oralidade\npública/Intercâmbio\nconversacional em\nsala de aula",
+                            "descrição": "Intercâmbio oral",
+                            "atividades": "(EF15LP09PE) Expressar-se em situações de intercâmbio oral (exposição de resultados de pesquisas, participação em debates, apresentação de livros lidos, apresentar poemas em saraus, oralização de textos produzidos para programa de rádio, de textos regionais dentre outros), com clareza, preocupando-se em ser compreendido pelo interlocutor e usando a palavra com tom de voz audível, boa articulação e ritmo adequado."
+                        },
+                        {
+                            "tema": "Oralidade: Todos os campos de atuação",
+                            "subtema": "Escuta atenta",
+                            "descrição": "Escuta/interação atenta",
+                            "atividades": "(EF15LP10PE) Escutar/visualizar, com atenção, falas de professores e colegas, formulando perguntas pertinentes ao tema e solicitando esclarecimentos sempre que necessário."
+                        },
+                        {
+                            "tema": "Oralidade: Todos os campos de atuação",
+                            "subtema": "Características da conversação espontânea",
+                            "descrição": "Características da conversação espontânea",
+                            "atividades": "(EF15LP11PE) Reconhecer características da conversação espontânea presencial, respeitando os turnos de fala, selecionando e utilizando, durante a conversação, formas adequadas de tratamento, de acordo com a situação e a posição do interlocutor."
+                        },
+                        {
+                            "tema": "Oralidade: Todos os campos de atuação",
+                            "subtema": "Aspectos não linguísticos (paralinguísticos) no ato da fala",
+                            "descrição": "Atribuição de\nsignificados de aspectos\nnão linguísticos",
+                            "atividades": "(EF15LP12PE) Atribuir significado a aspectos não linguísticos (paralinguísticos) observados na fala, como direção do olhar, riso, gestos, movimentos da cabeça (de concordância ou discordância), expressão corporal, tom de voz, em situação comunicativa."
+                        },
+                        {
+                            "tema": "Oralidade: Todos os campos de atuação",
+                            "subtema": "Relato oral/Registro formal e informal",
+                            "descrição": "Finalidades da interação oral",
+                            "atividades": "(EF15LP13PE) Identificar finalidades da interação oral em diferentes contextos comunicativos (solicitar informações, apresentar opiniões, informar, relatar experiências etc.)."
+                        },
+                        {
+                            "tema": "Oralidade: Campo da vida\ncotidiana",
+                            "subtema": "Produção de texto\noral",
+                            "descrição": "Produção de resenhas\ndigitais em áudio e vídeo.",
+                            "atividades": "(EF05LP13PE) Assistir, em vídeo digital, à postagem de vlog infantil de críticas de brinquedos, games, séries, filmes e livros de literatura infantil, compreendendo a especificidade desses gêneros e a partir disso, planejar e produzir resenhas digitais em áudio ou vídeo."
+                        },
+                        {
+                            "tema": "Oralidade: Campo da vida\npública",
+                            "subtema": "Planejamento e\nprodução de texto\noral",
+                            "descrição": "Roteirização, produção e\nedição de vlogs",
+                            "atividades": "(EF05LP18PE) Roteirizar, produzir e editar vídeo para vlogs argumentativos sobre produtos de mídia para público infantil (filmes, desenhos animados, HQs, games, livros etc.), com base em conhecimentos sobre os mesmos, de acordo com as convenções do gênero e considerando a situação comunicativa: os interlocutores (quem escreve/para quem escreve); a finalidade ou o propósito (escrever para quê); a circulação (onde o texto vai circular; o suporte (qual é o portador do texto); a linguagem, organização e forma do texto) e o tema/ assunto do texto."
+                        },
+                        {
+                            "tema": "Oralidade: Campo da vida\npública",
+                            "subtema": "Produção de texto\noral",
+                            "descrição": "Produção de texto\noral/argumentação",
+                            "atividades": "(EF05LP19PE) Argumentar oralmente sobre acontecimentos de interesse social local, regional e nacional, com base em conhecimentos sobre fatos divulgados em TV, rádio, mídia impressa e digital, respeitando pontos de vista diferentes."
+                        },
+                        {
+                            "tema": "Oralidade: Campo das\npráticas de\nestudo e\npesquisa",
+                            "subtema": "Escuta de textos\norais",
+                            "descrição": "Escuta atenta, interativa\ne respeitosa",
+                            "atividades": "(EF35LP18PE) Escutar, com atenção e respeito, apresentações de trabalhos realizadas por colegas, formulando perguntas pertinentes a temas sociais locais/regionais/nacionais relevantes e solicitando esclarecimentos sempre que necessário, visando à construção de sentidos a partir de textos orais."
+                        },
+                        {
+                            "tema": "Oralidade: Campo das\npráticas de\nestudo e\npesquisa",
+                            "subtema": "Planejamento de texto oral\nExposição oral",
+                            "descrição": "Exposição de trabalho e pesquisa",
+                            "atividades": "(EF35LP20PE) Expor, oralmente, trabalhos ou pesquisas escolares, em sala de aula, atentando para as especificidades desses gêneros, com apoio de recursos multissemióticos (imagens, diagrama, tabelas, etc.), orientando-se por roteiro escrito, planejando o tempo de fala e adequando a linguagem à situação comunicativa."
+                        },
+                        {
+                            "tema": "Oralidade: Campo das\npráticas de\nestudo e\npesquisa",
+                            "subtema": "Compreensão de\ntextos orais",
+                            "descrição": "Recuperação de ideias\nem situações de escuta",
+                            "atividades": "(EF35LP19PE) Recuperar as ideias principais em situações formais de escuta de exposições, apresentações e palestras, com foco em temáticas sociais, regional e nacional."
+                        },
+                        {
+                            "tema": "Oralidade:Campo artísticoliterário",
+                            "subtema": "Contagem de histórias",
+                            "descrição": "Reconto de gêneros literários",
+                            "atividades": "(EF15LP19PE) Recontar oralmente, com e sem apoio de imagem, textos literários, nacionais e regionais lidos ou sinalizados pelo professor ou pelo próprio estudante."
+                        },
+                        {
+                            "tema": "Produção de textos (escrita compartilhada e autônoma): Todos os campos de atuação",
+                            "subtema": "Planejamento de texto",
+                            "descrição": "Planejamento/produção/\nreescrita\ntextual/situação\ndiscursiva.",
+                            "atividades": "(EF15LP05PE) Planejar, com a ajuda do professor, o texto que será produzido, considerando a situação comunicativa, os interlocutores (quem escreve/para quem escreve); a finalidade ou o propósito (escrever para quê); a circulação (onde o texto vai circular); o suporte (qual é o portador do texto); a linguagem, organização e forma do texto e seu tema, pesquisando em meios impressos ou digitais, sempre que for preciso, informações necessárias à produção do texto, organizando em tópicos os dados e as fontes pesquisadas."
+                        },
+                        {
+                            "tema": "Oralidade; Campo\nartísticoliterário",
+                            "subtema": "Performances\norais",
+                            "descrição": "Dramatização",
+                            "atividades": "(EF05LP25PE) Representar cenas de textos dramáticos, reproduzindo as falas das personagens indicadas pelo autor, de acordo com as rubricas de interpretação e movimento e os sentidos pretendidos."
+                        },
+                        {
+                            "tema": "Produção de\ntextos (escrita\ncompartilhada e\nautônoma); Todos os\ncampos de\natuação",
+                            "subtema": "Revisão de textos",
+                            "descrição": "Releitura/revisão/reescrita textual",
+                            "atividades": "(EF15LP06PE) Reler e revisar o texto produzido, individualmente ou com a ajuda do professor e a colaboração dos colegas, para ajustá-lo e aprimorá-lo, fazendo cortes, acréscimos, reformulações, correções de ortografia e pontuação, visando aos efeitos de sentidos pretendidos."
+                        },
+                        {
+                            "tema": "Produção de\ntextos (escrita\ncompartilhada e\nautônoma); Todos os\ncampos de\natuação",
+                            "subtema": "Edição de textos",
+                            "descrição": "Edição de textos",
+                            "atividades": "(EF15LP07PE) Editar a versão final do texto, em colaboração com os colegas e com a ajuda do professor, ilustrando, quando for o caso, em suporte adequado, manual ou digital."
+                        },
+                        {
+                            "tema": "Produção de\ntextos (escrita\ncompartilhada e\nautônoma); Todos os\ncampos de\natuação",
+                            "subtema": "Utilização de\ntecnologia digital",
+                            "descrição": "Utilização da tecnologia\ndigital/exploração dos\nrecursos\nmultissemióticos",
+                            "atividades": "(EF15LP08PE) Utilizar software, inclusive programas de edição de texto, para editar e publicar os textos produzidos (folhetos com orientações sobre questões/problemas locais, guias, pesquisas sobre povos/grupos, entre outros próximos a realidade/necessidade dos estudantes), explorando os recursos multissemióticos disponíveis, individualmente ou com ajuda do professor."
+                        },
+                        {
+                            "tema": "Produção de\ntextos (escrita\ncompartilhada e\nautônoma); Todos os\ncampos de\natuação",
+                            "subtema": "Construção do sistema alfabético/ Convenções da escrita",
+                            "descrição": "Convenções da escrita",
+                            "atividades": "(EF35LP07PE) Utilizar, ao produzir um texto, conhecimentos linguísticos e gramaticais, tais como ortografia, regras básicas de concordância nominal e verbal, pontuação (ponto final, ponto de exclamação, ponto de interrogação, vírgulas em enumerações) e pontuação do discurso direto, quando for o caso."
+                        },
+                        {
+                            "tema": "Produção de\ntextos (escrita\ncompartilhada e\nautônoma); Todos os\ncampos de\natuação",
+                            "subtema": "Construção do sistema alfabético/ Estabelecimento de relações anafóricas na referenciação e construção da coesão",
+                            "descrição": "Recurso de referenciação/coesão/ articuladores de sentido",
+                            "atividades": "(EF35LP08PE) Utilizar, ao produzir um texto, recursos de referenciação (por substituição lexical ou por pronomes pessoais, possessivos e demonstrativos), vocabulário apropriado ao gênero, recursos de coesão pronominal (pronomes anafóricos) e articuladores de relações de sentido (tempo, causa, oposição, conclusão, comparação), com nível suficiente de informatividade, que contribuem para a construção de sentidos dos textos."
+                        },
+                        {
+                            "tema": "Produção de\ntextos (escrita\ncompartilhada e\nautônoma); Todos os\ncampos de\natuação",
+                            "subtema": "Planejamento de texto/Progressão temática e paragrafação",
+                            "descrição": "Paragrafação",
+                            "atividades": "(EF35LP09PE) Organizar o texto em unidades de sentido, dividindo-o em parágrafos, atentando para pertinência temática, progressão, segundo as normas gráficas e de acordo com as características do gênero textual."
+                        },
+                        {
+                            "tema": "Produção de\ntextos (escrita\ncompartilhada e\nautônoma); Campo da vida\ncotidiana",
+                            "subtema": "Escrita\ncolaborativa",
+                            "descrição": "Escrita\ncolaborativa",
+                            "atividades": "(EF05LP11PE) Ler, analisar e produzir gêneros lúdicos e/ou humorísticos (anedotas, piadas, cartuns, dentre outros), com autonomia, dentre outros gêneros do campo da vida cotidiana, de acordo com as convenções do gênero, considerando a situação comunicativa: os interlocutores (quem escreve/para quem escreve); a finalidade ou o propósito (escrever para quê); a circulação (onde o texto vai circular; o suporte (qual é o portador do texto); a linguagem, organização e a forma do texto."
+                        },
+                        {
+                            "tema": "Produção de\ntextos (escrita\ncompartilhada e\nautônoma); Campo das\npráticas de\nestudo e\npesquisa",
+                            "subtema": "Produção de textos",
+                            "descrição": "Planejamento e\nProdução de textos que\nveiculem resultados de\npesquisa",
+                            "atividades": "(EF05LP24PE) Planejar e produzir texto sobre tema de interesse dos estudantes e da comunidade local, organizando resultados de pesquisa em fontes de informação impressas ou digitais, incluindo imagens e gráficos ou tabelas, considerando a situação comunicativa e o tema/assunto do texto."
+                        },
+                        {
+                            "tema": "Produção de textos (escrita compartilhada e autônoma): Campo da vida pública",
+                            "subtema": "Escrita colaborativa",
+                            "descrição": "Estrutura textual argumentativa",
+                            "atividades": "(EF35LP15PE) Opinar e defender de forma respeitosa, ponto de vista sobre tema polêmico, relacionado a situações vivenciadas na escola e/ou na comunidade, utilizando registro formal e estrutura adequada à argumentação, considerando a situação comunicativa, o tema/assunto do texto."
+                        },
+                        {
+                            "tema": "Produção de textos (escrita compartilhada e autônoma); Campo\nartísticoliterário",
+                            "subtema": "Escrita autônoma\ncompartilhada",
+                            "descrição": "Estrutura narrativa",
+                            "atividades": "(EF35LP25PE) Criar narrativas ficcionais, com certa autonomia, utilizando detalhes descritivos (de personagens, de sentimentos, de cenas, espaços/ambientes, dentre outros aspectos descritivos), sequências de eventos e imagens apropriadas para sustentar o sentido do texto, e marcadores de tempo, espaço e de fala de personagens."
+                        },
+                        {
+                            "tema": "Produção de textos (escrita compartilhada e autônoma); Campo\nartísticoliterário",
+                            "subtema": "Escrita autônoma\ncompartilhada",
+                            "descrição": "Produção de gêneros\ncom estrutura narrativa",
+                            "atividades": "(EF35LP26PE) Ler e escrever, com certa autonomia, narrativas ficcionais que apresentem cenários e personagens, observando os elementos da estrutura narrativa: enredo, tempo, espaço, personagens, narrador e a construção do discurso indireto e discurso direto, inferindo seus efeitos de sentidos."
+                        },
+                        {
+                            "tema": "Produção de textos (escrita compartilhada e autônoma); Campo\nartísticoliterário",
+                            "subtema": "Escrita autônoma",
+                            "descrição": "Leitura de textos em\nverso",
+                            "atividades": "(EF35LP27PE) Ler e escrever, com certa autonomia, textos em versos de escritores locais, regionais e nacionais, explorando rimas, sons e jogos de palavras, imagens poéticas (sentidos figurados) e recursos visuais e sonoros."
+                        },
+                        {
+                            "tema": "Análise\nLinguística/\nSemiótica\n(ortografização); Todos os\ncampos de\natuação",
+                            "subtema": "Construção do\nsistema alfabético e\nda ortografia",
+                            "descrição": "Grafia de\ncorrespondências\nregulares contextuais e\nmorfológicas e\ncorrespondências\nirregulares",
+                            "atividades": "(EF05LP01PE) Grafar palavras utilizando regras de correspondência fonema-grafema regulares contextuais, contextuais e morfológicas e palavras de uso frequente com correspondências irregulares em atividades de análise e reflexão na produção de diferentes gêneros."
+                        },
+                        {
+                            "tema": "Análise\nLinguística/\nSemiótica\n(ortografização); Todos os\ncampos de\natuação",
+                            "subtema": "Conhecimento do\nalfabeto do\nPortuguês do Brasil/\nPolissemia",
+                            "descrição": "Polissemia de palavras\nem contextos",
+                            "atividades": "(EF05LP02PE) Identificar o caráter polissêmico das palavras (uma mesma palavra com diferentes significados, de acordo com o contexto de uso), comparando o significado de determinados termos utilizados em textos nas áreas científicas com esses mesmos termos utilizados na linguagem usual."
+                        },
+                        {
+                            "tema": "Análise\nLinguística/\nSemiótica\n(ortografização); Todos os\ncampos de\natuação",
+                            "subtema": "Conhecimento das\ndiversas grafias do\nalfabeto/Acentuação",
+                            "descrição": "Acentuação gráfica",
+                            "atividades": "(EF05LP03PE) Acentuar corretamente palavras, oxítonas, paroxítonas e proparoxítonas em produção de gêneros da oralidade e da escrita, dos diversos campos de atuação, de forma reflexiva, a partir da norma padrão."
+                        },
+                        {
+                            "tema": "Análise\nLinguística/\nSemiótica\n(ortografização); Todos os\ncampos de\natuação",
+                            "subtema": "Pontuação",
+                            "descrição": "Distinção de sinais de\npontuação e seus\nefeitos de sentido",
+                            "atividades": "(EF05LP04PE) Diferenciar, na leitura de textos, vírgula, ponto e vírgula, dois-pontos e reconhecer, na leitura de textos, o efeito de sentido que decorre do uso de reticências, aspas, parênteses."
+                        },
+                        {
+                            "tema": "Análise\nLinguística/\nSemiótica\n(ortografização); Todos os\ncampos de\natuação",
+                            "subtema": "Morfologia",
+                            "descrição": "Identificação e\nreconhecimento de\nexpressões de presente,\npassado e futuro",
+                            "atividades": "(EF05LP05PE) Identificar e reconhecer a expressão de presente, passado e futuro em tempos verbais do modo indicativo, usados nos textos lidos e escritos."
+                        },
+                        {
+                            "tema": "Análise\nLinguística/\nSemiótica\n(ortografização); Todos os\ncampos de\natuação",
+                            "subtema": "Morfologia/Sintaxe",
+                            "descrição": "Morfologia/Sintaxe",
+                            "atividades": "(EF05LP06PE) Flexionar, adequadamente, em produção de gêneros orais e escritos os verbos em concordância com pronomes pessoais/nomes sujeitos da oração."
+                        },
+                        {
+                            "tema": "Análise\nLinguística/\nSemiótica\n(ortografização); Todos os\ncampos de\natuação",
+                            "subtema": "Morfologia/Sintaxe",
+                            "descrição": "Morfologia/Sintaxe",
+                            "atividades": "(EF05LP07PE) Identificar, em textos, o uso de conjunções e a relação que estabelecem entre partes do texto: adição, oposição, tempo, causa, condição, finalidade e os efeitos de sentidos provocados através de seus usos."
+                        },
+                        {
+                            "tema": "Análise\nLinguística/\nSemiótica\n(ortografização); Campo da vida\ncotidiana",
+                            "subtema": "Forma de\ncomposição do\ntexto",
+                            "descrição": "Validade e\nforça de\nargumentos",
+                            "atividades": "(EF05LP20PE) Analisar a validade e força de argumentos em textos argumentativos (argumentações- sobre produtos de mídia para público infantil (filmes, desenhos animados, HQs, games etc.), com base em conhecimentos sobre os mesmos."
+                        },
+                        {
+                            "tema": "Análise\nLinguística/\nSemiótica\n(ortografização); Campo da vida\ncotidiana",
+                            "subtema": "Forma de\ncomposição do\ntexto",
+                            "descrição": "Análise do padrão\nentonacional, expressão\nfacial e corporal de\nvloggers\nargumentativos",
+                            "atividades": "(EF05LP21PE) Analisar o padrão entonacional, a expressão facial e corporal e as escolhas de variedade e registro linguísticos de vloggers de vlogs opinativos ou argumentativos."
+                        },
+                        {
+                            "tema": "Análise\nlinguística/\nsemiótica\n(Ortografização); Campo do\nestudo e da\npesquisa",
+                            "subtema": "Forma de\ncomposição dos\ntextos\nAdequação do texto\nàs normas de\nescrita",
+                            "descrição": "Padronização de textos\ncientíficos",
+                            "atividades": "(EF05LP26PE) Utilizar, ao produzir textos, conhecimentos linguísticos e gramaticais: regras sintáticas de concordância nominal e verbal, bem como convenções de escrita de citações, pontuação (ponto final, dois-pontos, vírgulas em enumerações) e regras ortográficas, refletindo sobre o uso."
+                        },
+                        {
+                            "tema": "Análise\nLinguística/\nSemiótica\n(ortografização); Todos os\ncampos de\natuação",
+                            "subtema": "Construção do\nsistema alfabético e\nda ortografia",
+                            "descrição": "Uso do dicionário em\natividade e leitura e\nescrita",
+                            "atividades": "(EF35LP12PE) Recorrer, em atividades de leitura e escrita, ao dicionário e/ou outro recurso tecnológico, para esclarecer dúvida sobre a escrita de palavras, especialmente no caso de palavras com relações irregulares fonema-grafema."
+                        },
+                        {
+                            "tema": "Análise\nLinguística/\nSemiótica\n(ortografização); Todos os\ncampos de\natuação",
+                            "subtema": "Construção do\nsistema alfabético e\nda ortografia",
+                            "descrição": "Memorização e emprego\nda grafia correta de\npalavras irregulares",
+                            "atividades": "(EF35LP13PE) Memorizar e empregar a grafia de palavras de uso frequente nas quais as relações fonema-grafema são irregulares e com h inicial que não representa fonema."
+                        },
+                        {
+                            "tema": "Análise\nlinguística/\nsemiótica\n(Ortografização); Campo da vida\npública",
+                            "subtema": "Forma de\ncomposição do\ntexto",
+                            "descrição": "Identificação/produção\ndos gêneros do jornal",
+                            "atividades": "(EF35LP16PE) Identificar e reproduzir, em notícias, manchetes, lides e corpo de notícias simples para público infantil e cartas de reclamação (revista infantil), digitais e impressos, a formatação e diagramação específica de cada um desses gêneros, inclusive em suas versões orais."
+                        },
+                        {
+                            "tema": "Análise\nlinguística/\nsemiótica\n(Ortografização); Campo do\nestudo e da\npesquisa",
+                            "subtema": "Forma de\ncomposição dos\ntextos\nCoesão e\narticuladores",
+                            "descrição": "Recursos de coesão\npronominal e suas\nrelações de sentido",
+                            "atividades": "(EF05LP27PE) Utilizar, ao produzir o texto, recursos de coesão pronominal (pronomes anafóricos) e articuladores de relações de sentido (tempo, causa, oposição, conclusão, comparação), com nível adequado de informatividade."
+                        },
+                        {
+                            "tema": "Campo\nartísticoliterário",
+                            "subtema": "Formas de\ncomposição de\nnarrativas",
+                            "descrição": "Estrutura narrativa",
+                            "atividades": "(EF35LP29PE) Identificar, em narrativas, cenário, personagem central, conflito gerador, resolução e o ponto de vista, com base no qual histórias são narradas, diferenciando narrativas em primeira e terceira pessoas."
+                        },
+                        {
+                            "tema": "Campo\nartísticoliterário",
+                            "subtema": "Discurso direto e\nindireto",
+                            "descrição": "Discurso direto e\nindireto/construção de\nsentido",
+                            "atividades": "(EF35LP30PE) Diferenciar discurso indireto e discurso direto, determinando o efeito de sentido de verbos de enunciação e explicando o uso de variedades linguísticas no discurso direto, quando for o caso e sua relevância na construção de sentidos dos textos."
+                        },
+                        {
+                            "tema": "Campo\nartísticoliterário",
+                            "subtema": "Formas de\ncomposição de\ntextos poéticos",
+                            "descrição": "Efeitos de sentido de\nrecursos estilísticos",
+                            "atividades": "(EF35LP31PE) Identificar, em textos versificados, efeitos de sentido decorrentes do uso de recursos rítmicos e sonoros e de metáforas, através de leitura, oralização e análise dos referidos textos."
+                        }
+                    ]
+                },
+                {
+                    "disciplina": "MATEMÁTICA",
+                    "conteudos": [
+                        {
+                            "tema": "Números",
+                            "subtema": "Problemas:\nmultiplicação e divisão\nde números racionais\ncuja representação\ndecimal é finita por\nnúmeros naturais",
+                            "descrição": "Resolução e elaboração de problemas de\nmultiplicação e divisão com números\nracionais;\nCálculo por estimativa, cálculo mental e\nalgoritmos;\nRelação das operações de divisão e\nmultiplicação que caracterizam o campo\nmultiplicativo.",
+                            "atividades": "(EF05MA08PE) Resolver e elaborar problemas de multiplicação e\ndivisão com números naturais e com números racionais cuja\nrepresentação decimal é finita (com multiplicador natural e divisor\nnatural e diferente de zero), utilizando estratégias diversas, como\ncálculo por estimativa, cálculo mental e algoritmos."
+                        },
+                        {
+                            "tema": "Números",
+                            "subtema": "Problemas de contagem\ndo tipo: “Se cada objeto\nde uma coleção A for\ncombinado\n(associado)\ncom todos os elementos\nde uma coleção B,\nquantos agrupamentos\ndesse tipo podem ser\nformados?”.",
+                            "descrição": "Resolução e elaboração de problemas\nsimples de contagem por meio de\ndiagramas de árvore, por tabelas e pelo\nprincípio multiplicativo;\nCompreensão das formas de resolução de\nproblemas envolvendo contagem;\nDesenvolvimento de estratégias para\nlistagem e ordenação de todas as\npossibilidades de resposta de um\nproblema de contagem.",
+                            "atividades": "(EF05MA09PE) Resolver e elaborar problemas simples de contagem\nenvolvendo o princípio multiplicativo, como a determinação do número\nde agrupamentos possíveis ao se combinar (associar) cada elemento\nde uma coleção com todos os elementos de outra coleção, por meio\nde diagramas de árvore ou por tabelas (por exemplo, de quantas formas diferentes uma pessoa pode se vestir se ela possui 4 calças e\n5 blusas?)."
+                        },
+                        {
+                            "tema": "Álgebra",
+                            "subtema": "Problemas envolvendo\na partição de um todo\nem duas partes\nproporcionais",
+                            "descrição": "Resolução de problemas envolvendo a\npartilha de uma quantidade em partes\niguais e desiguais;\nCompreensão da ideia de razão entre as\npartes de uma partilha e delas com o todo;\nCompreensão da ideia de divisão em duas\npartes proporcionais em que uma delas é\nigual ao dobro da outra;\nUtilizar a ideia de divisão proporcional para\nresolver problemas.",
+                            "atividades": "(EF05MA13PE) Resolver problemas envolvendo a partilha de uma\nquantidade em duas partes desiguais, tais como dividir uma\nquantidade em duas partes, de modo que uma seja o dobro da outra,\ncom compreensão da ideia de razão entre as partes e delas com o\ntodo."
+                        },
+                        {
+                            "tema": "Geometria",
+                            "subtema": "Ampliação e redução de\nfiguras poligonais em\nmalhas quadriculadas:\nreconhecimento da\ncongruência dos ângulos\ne da\nproporcionalidade dos\nlados correspondentes",
+                            "descrição": "Reconhecimento da congruência de\nângulos;\nAmpliação e redução de figuras poligonais\nem malhas quadriculadas;\nIntrodução do conceito de ângulo;\nConstrução de ângulos a partir de\ncomparações com relação ao ângulo reto.",
+                            "atividades": "(EF05MA18PE) Reconhecer a congruência dos ângulos e a\nproporcionalidade entre os lados correspondentes de figuras\npoligonais em situações de ampliação e de redução em malhas\nquadriculadas e usando tecnologias digitais."
+                        },
+                        {
+                            "tema": "Grandezas e Medidas",
+                            "subtema": "Noção de volume",
+                            "descrição": "Compreensão do significado de um metro quadrado e de um centímetro quadrado;\nRelação entre centímetro cúbico, decímetro cúbico e metro cúbico com o\nlitro.",
+                            "atividades": "(EFO5MAXPE) Compreender o significado de um metro quadrado e\nde um centímetro quadrado para comparar áreas e as relações entre\ncentímetro cúbico, decímetro cúbico e metro cúbico com o litro."
+                        },
+                        {
+                            "tema": "Probabilidade e Estatística",
+                            "subtema": "Leitura, coleta,\nclassificação,\ninterpretação e\nrepresentação de dados\nem tabelas de dupla\nentrada, gráfico de\ncolunas agrupadas,\ngráficos pictóricos e\ngráfico de linhas.",
+                            "descrição": "Realização de pesquisa\nenvolvendo variáveis categóricas e\nnuméricas;\nOrganização e representação dos dados\ncoletados por meio de tabelas, gráficos de\ncolunas, pictóricos e de linhas;\nProdução de texto sobre a finalidade da\npesquisa e a síntese dos resultados;\nRealização de coleta de dados e\ntratamento da informação por meio de\nrepresentação gráfica e tabela de dupla\nentrada;\nIntrodução do conceito de gráfico em\nsetores com compreensão de suas\nformas de leitura;\nIntrodução da construção de gráfico de\nlinha com o uso de planilha eletrônica",
+                            "atividades": "(EF05MA25PE) Realizar pesquisa envolvendo variáveis categóricas e\nnuméricas, organizar dados coletados por meio de tabelas, gráficos\nde colunas, pictóricos e de linhas, com e sem uso de tecnologias\ndigitais, e apresentar texto escrito sobre a finalidade da pesquisa e a\nsíntese dos resultados."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

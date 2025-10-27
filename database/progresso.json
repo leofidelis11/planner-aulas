@@ -1,0 +1,24 @@
+{
+  "instrutor": {
+    "disciplinas": {
+      "ARTES_2025": {
+        "tema0": false,
+        "tema1": false,
+        "tema2": false
+      },
+      "GEOGRAFIA_2025": {
+        "tema1": false
+      },
+      "HISTÓRIA_2025": {
+        "tema1": false
+      },
+      "PORTUGUÊS_2025": {
+        "tema2": false,
+        "tema9": false,
+        "tema14": false,
+        "tema15": false,
+        "tema17": false
+      }
+    }
+  }
+}
