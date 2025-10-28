@@ -1,0 +1,27 @@
+body {
+  background: #f5f5f5;
+}
+
+#dashboard {
+  margin-top: 2rem;
+}
+
+.progress {
+  margin-bottom: 1rem;
+}
+
+.accordion {
+  margin-bottom: 1.5rem;
+}
+
+.is-link.is-light {
+  margin-bottom: 0.5rem;
+}
+
+.accordion .card {
+  margin-bottom: 0.5rem;
+}
+
+.check-btn {
+  margin-left: 1rem;
+}

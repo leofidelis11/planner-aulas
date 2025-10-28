@@ -1,5 +1,8 @@
 {
-  "usuarios": [
-    { "usuario": "instrutor", "senha": "123456" }
+  "users": [
+    {
+      "username": "instrutor",
+      "password": "senha123"
+    }
   ]
 }
