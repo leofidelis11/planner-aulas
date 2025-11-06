@@ -34,22 +34,23 @@ A estrutura básica do projeto é a seguinte:
 ## Como rodar a aplicação  
 Siga os passos abaixo para configurar e iniciar o ambiente de desenvolvimento:
 
-1. Clone o repositório e acesse-o:
+1. Clone o repositório:
    ```bash
    git clone https://github.com/leofidelis11/planner‑aulas.git
    ```
 
+2. Acesse o diretório:
    ```bash
    cd planner‑aulas
    ```
 
-2. Instale as dependências:
+3. Instale as dependências:
    ```bash
    npm install
    ```
 
 
-3. Inicie a aplicação em modo de desenvolvimento:
+4. Inicie a aplicação em modo de desenvolvimento:
    ```bash
    npm start
    ```
